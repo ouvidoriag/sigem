@@ -4,20 +4,56 @@ Bem-vindo ao repositório unificado de **Endereços, Equipamentos Públicos e Es
 
 ---
 
-## 🚀 Como Acessar e Usar
+## 🚀 Como Executar em Produção
 
-1. **Aplicação Web Interativa (Painel SaaS):**
-   - Dê um duplo clique em **[`index.html`](./index.html)** para abrir no seu navegador.
-   - Recursos:
-     - 🔍 Busca instantânea em tempo real por nome, bairro, telefone ou e-mail.
-     - 🏢 Filtros por categoria (Secretarias, Saúde Especializada, Saúde Básica, FUNDEC, Educação, Assistência Social e Segurança).
-     - 🗺️ Mapa georreferenciado interativo com marcadores de equipamentos.
-     - 📑 Tabela paginada completa com 405 equipamentos oficiais cadastrados.
-     - 🏛️ Gestão de Hubs e Complexos Administrativos compartilhados.
-   - *Nota:* O arquivo [`gerenciador_enderecos.html`](./gerenciador_enderecos.html) é mantido como espelho institucional idêntico.
+### 1. Inicialização Rápida com NPM:
+```powershell
+# Iniciar o servidor de produção
+npm start
 
-2. **Índice Mestre e Cadernos Técnicos:**
-   - Abra o **[`00_INDICE_GERAL.md`](./00_INDICE_GERAL.md)** para navegar por todos os documentos temáticos.
+# Ou modo desenvolvimento com recarregamento automático
+npm run dev
+```
+Acesse no seu navegador: 👉 **`http://localhost:3333`**
+
+---
+
+### 2. Execução Gerenciada com PM2 (Daemon / Background):
+O projeto inclui suporte nativo ao PM2 com reinicialização automática e logs estruturados:
+```powershell
+# Iniciar serviço com PM2
+npm run pm2:start
+
+# Ver status dos processos
+npm run pm2:status
+
+# Ver logs em tempo real
+npm run pm2:logs
+
+# Reiniciar / Parar serviço
+npm run pm2:restart
+npm run pm2:stop
+```
+
+---
+
+### 3. Rotas da API RESTful Integrada (SQLite V2):
+- **Healthcheck:** `GET /api/health`
+- **KPIs e Estatísticas:** `GET /api/stats`
+- **Equipamentos (Filtro e Busca):** `GET /api/equipamentos?q=hospital&distrito=1&categoria=Saude`
+- **Detalhes de Equipamento:** `GET /api/equipamentos/:id`
+- **Distritos:** `GET /api/distritos`
+- **90 Bairros Oficiais:** `GET /api/bairros`
+- **Categorias:** `GET /api/categorias`
+- **Hubs e Prédios Compartilhados:** `GET /api/hubs`
+
+---
+
+### 4. Acesso Direto às Interfaces Web:
+- 🌐 **Painel Web Principal:** `http://localhost:3333/`
+- 🔐 **Login Administrativo:** `http://localhost:3333/login`
+- 📑 **Gerenciador Institucional:** `http://localhost:3333/gerenciador`
+
 
 ---
 
