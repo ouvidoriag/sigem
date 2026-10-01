@@ -1,0 +1,2684 @@
+[
+  {
+    "id": "rec_422",
+    "nome": "Abrigo Primeiro Olhar",
+    "changes": [
+      {
+        "field": "cep",
+        "de": "25.215-000",
+        "para": "25215-000"
+      },
+      {
+        "field": "horario",
+        "de": "Atendimento 24 Horas",
+        "para": "Atendimento 24h"
+      }
+    ]
+  },
+  {
+    "id": "rec_7",
+    "nome": "SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL E DIREITOS HUMANOS (SEASDIH)",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Avenida Brigadeiro Lima e Silva, 1.618 – Jardim 25 de Agosto – Duque de Caxias – RJ – CEP 25.071-182",
+        "para": "Av. Brigadeiro Lima e Silva, 1618 – 25 de Agosto"
+      },
+      {
+        "field": "cep",
+        "de": "25.071-182",
+        "para": "25071-182"
+      },
+      {
+        "field": "telefone",
+        "de": "(21) 2672-6659 / (21) 2672-6650",
+        "para": "(21) 2672-6682"
+      }
+    ]
+  },
+  {
+    "id": "rec_47",
+    "nome": "Centro de Atenção Psicossocial para Usuários de Álcool e Outras Drogas Renato Russo – CAPS AD",
+    "changes": [
+      {
+        "field": "cep",
+        "de": "25020-000",
+        "para": "25011-000"
+      },
+      {
+        "field": "telefone",
+        "de": "(21) 2673-6144 / (21) 986675624",
+        "para": "(21) 2673-6144 / (21) 98667-5624"
+      },
+      {
+        "field": "descricao",
+        "de": "Equipamento público oficial da Prefeitura Municipal de Duque de Caxias vinculado ao setor de Saúde Especializada / Hospitalar.",
+        "para": "Centro de Atenção Psicossocial Álcool e Drogas, especializado no acolhimento e reinserção social de usuários de álcool e outras substâncias."
+      }
+    ]
+  },
+  {
+    "id": "rec_49",
+    "nome": "Centro de Atenção Psicossocial para Usuários de Álcool e Outras Drogas - CAPS AD XERÉM",
+    "changes": [
+      {
+        "field": "bairro",
+        "de": "Mantiquira",
+        "para": "Xerém"
+      },
+      {
+        "field": "cep",
+        "de": "25272-560",
+        "para": "25250-000"
+      },
+      {
+        "field": "telefone",
+        "de": "(21) 988032550",
+        "para": "(21) 98803-2550"
+      }
+    ]
+  },
+  {
+    "id": "rec_50",
+    "nome": "Centro de Atenção Psicossocial – CAPS Imbariê",
+    "changes": [
+      {
+        "field": "telefone",
+        "de": "(21) 3661-0891 / (21) 993977976",
+        "para": "(21) 3661-0891 / (21) 99397-7976"
+      }
+    ]
+  },
+  {
+    "id": "rec_46",
+    "nome": "Centro de Atenção Psicossocial – CAPS LESLIE SANFORD CHAVIN",
+    "changes": [
+      {
+        "field": "bairro",
+        "de": "25 de Agosto",
+        "para": "Jardim Vinte e Cinco de Agosto"
+      },
+      {
+        "field": "telefone",
+        "de": "(21) 2671-5806 / (21) 959068093",
+        "para": "(21) 2671-5806 / (21) 95906-8093"
+      }
+    ]
+  },
+  {
+    "id": "rec_48",
+    "nome": "Centro de Atenção Psicossocial Infanto-Juvenil – CAPSIJ",
+    "changes": [
+      {
+        "field": "bairro",
+        "de": "25 de Agosto",
+        "para": "Jardim Vinte e Cinco de Agosto"
+      },
+      {
+        "field": "cep",
+        "de": "25000-000",
+        "para": "25075-025"
+      },
+      {
+        "field": "telefone",
+        "de": "(21) 2672-3888 / (21) 2772-7569 / (21) 959069132",
+        "para": "(21) 2672-3888 / (21) 2772-7569 / (21) 95906-9132"
+      },
+      {
+        "field": "descricao",
+        "de": "Equipamento público oficial da Prefeitura Municipal de Duque de Caxias vinculado ao setor de Saúde Especializada / Hospitalar.",
+        "para": "Atenção especializada em saúde mental voltada para crianças e adolescentes com transtornos psicológicos de moderados a severos."
+      }
+    ]
+  },
+  {
+    "id": "rec_426",
+    "nome": "Casa Comunitária 25 de Agosto",
+    "changes": [
+      {
+        "field": "cep",
+        "de": "25.070-350",
+        "para": "25070-350"
+      }
+    ]
+  },
+  {
+    "id": "rec_423",
+    "nome": "Casa de Passagem Municipal",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Manoel Vieira, s/nº – Centenário – Duque de Caxias – RJ – CEP 25.030-220",
+        "para": "Rua Manoel Vieira, S/N – Centenário"
+      },
+      {
+        "field": "cep",
+        "de": "25.030-220",
+        "para": "25030-100"
+      },
+      {
+        "field": "horario",
+        "de": "Atendimento 24 Horas",
+        "para": "Atendimento 24h"
+      }
+    ]
+  },
+  {
+    "id": "rec_370",
+    "nome": "Casa da Mulher Caxiense",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Alameda Rui Barbosa, Lote 8, Quadra 17",
+        "para": "Alameda Rui Barbosa, Qd 17, Lote 8 – Jd. Primavera"
+      },
+      {
+        "field": "cep",
+        "de": "25215-260",
+        "para": "25215-220"
+      },
+      {
+        "field": "telefone",
+        "de": "(21) 2773-6300",
+        "para": "(21) 2773-1896"
+      }
+    ]
+  },
+  {
+    "id": "rec_424",
+    "nome": "Casa Social Renascer",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Coronel João Teles, 43 – Centro – Duque de Caxias – RJ – CEP 25.010-060",
+        "para": "Rua Cel. João Teles, 43 – Centro"
+      },
+      {
+        "field": "cep",
+        "de": "25.010-060",
+        "para": "25010-170"
+      }
+    ]
+  },
+  {
+    "id": "rec_425",
+    "nome": "Casa Social Reviver",
+    "changes": [
+      {
+        "field": "cep",
+        "de": "25.010-180",
+        "para": "25010-090"
+      }
+    ]
+  },
+  {
+    "id": "rec_374",
+    "nome": "Centro de Convivência do Idoso",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Manoel Vieira, s/nº",
+        "para": "Rua Manoel Vieira, S/N – Centenário"
+      },
+      {
+        "field": "cep",
+        "de": "25030-000",
+        "para": "25030-100"
+      },
+      {
+        "field": "telefone",
+        "de": "(21) 2673-4422",
+        "para": "(21) 3653-3597"
+      }
+    ]
+  },
+  {
+    "id": "rec_372",
+    "nome": "CEAM Idacilde",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Alameda Rui Barbosa, Lote 8, Quadra 17",
+        "para": "Alameda Rui Barbosa, Lote 8, Quadra 17 – Jd. Primavera"
+      },
+      {
+        "field": "cep",
+        "de": "25215-260",
+        "para": "25215-220"
+      }
+    ]
+  },
+  {
+    "id": "rec_371",
+    "nome": "CEAM Vera Lúcia",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Professor José de Souza Herdy, nº 878",
+        "para": "Rua Professor José de Souza Herdy, 878"
+      },
+      {
+        "field": "bairro",
+        "de": "25 de Agosto",
+        "para": "Jardim 25 de Agosto"
+      },
+      {
+        "field": "cep",
+        "de": "25071-202",
+        "para": "25071-110"
+      }
+    ]
+  },
+  {
+    "id": "rec_45",
+    "nome": "UPH Xerém",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Nóbrega Ribeiro, s/nº - Xerém – Duque de Caxias – RJ",
+        "para": "Rua Nilo Vieira, 353 – Centro"
+      },
+      {
+        "field": "bairro",
+        "de": "Xerém",
+        "para": "Centro"
+      },
+      {
+        "field": "cep",
+        "de": "25272-560",
+        "para": "25011-000"
+      },
+      {
+        "field": "telefone",
+        "de": "(21) 2679-1837",
+        "para": "(21) 3774-4020"
+      }
+    ]
+  },
+  {
+    "id": "rec_51",
+    "nome": "Centro de Atenção ao Portador de Deficiências - CEAPD (CER II)",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Nilo Vieira, 353 – Centro – Duque de Caxias – RJ",
+        "para": "Rua Manoel Lucas, s/nº - Parque Senhor do Bonfim"
+      },
+      {
+        "field": "bairro",
+        "de": "Centro",
+        "para": "Parque Senhor do Bonfim"
+      },
+      {
+        "field": "cep",
+        "de": "25020-000",
+        "para": "25025-240"
+      },
+      {
+        "field": "telefone",
+        "de": "(21) 3774-4020",
+        "para": "(21) 2772-7308 / 2652-2986"
+      },
+      {
+        "field": "descricao",
+        "de": "Equipamento público oficial da Prefeitura Municipal de Duque de Caxias vinculado ao setor de Saúde Especializada / Hospitalar.",
+        "para": "Unidade ambulatorial voltada ao acolhimento e cuidado integral à saúde e bem-estar dos adolescentes do município."
+      }
+    ]
+  },
+  {
+    "id": "rec_427",
+    "nome": "Centro POP — Unidade Figueira",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Estrada Velha do Pilar, s/nº – Figueira – Duque de Caxias – RJ – CEP 25.230-020",
+        "para": "Estrada Velha do Pilar, S/N – Figueira"
+      },
+      {
+        "field": "cep",
+        "de": "25.230-020",
+        "para": "25230-000"
+      }
+    ]
+  },
+  {
+    "id": "rec_375",
+    "nome": "Centro de Referência do Homem",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Vicente Celestino, nº 615",
+        "para": "Rua Vicente Celestino, 615 – Jd. Primavera"
+      },
+      {
+        "field": "cep",
+        "de": "25215-260",
+        "para": "25215-080"
+      }
+    ]
+  },
+  {
+    "id": "rec_53",
+    "nome": "Centro Especialização em Reabilitação – CER IV",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Av. República do Paraguai, s/nº - Sarapuí – Duque de Caxias – RJ",
+        "para": "Rua Gen. Gurjão, s/n – Centro"
+      },
+      {
+        "field": "bairro",
+        "de": "Sarapuí",
+        "para": "Centro"
+      },
+      {
+        "field": "cep",
+        "de": "25000-000",
+        "para": "25011-090"
+      },
+      {
+        "field": "descricao",
+        "de": "Equipamento público oficial da Prefeitura Municipal de Duque de Caxias vinculado ao setor de Saúde Especializada / Hospitalar.",
+        "para": "Principal polo de reabilitação bucal e especialidades odontológicas do centro de Duque de Caxias."
+      }
+    ]
+  },
+  {
+    "id": "rec_55",
+    "nome": "Centro de Especialidade Odontológica (CEO Xerém)",
+    "changes": [
+      {
+        "field": "cep",
+        "de": "25272-560",
+        "para": "25250-000"
+      }
+    ]
+  },
+  {
+    "id": "rec_52",
+    "nome": "Centro de Atenção Total ao Adolescente – CEATA",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Manoel Lucas, s/nº - Parque Senhor do Bonfim – Duque de Caxias – RJ",
+        "para": "Av. República do Paraguai, s/nº - Sarapuí"
+      },
+      {
+        "field": "bairro",
+        "de": "Parque Senhor do Bonfim",
+        "para": "Sarapuí"
+      },
+      {
+        "field": "cep",
+        "de": "25000-000",
+        "para": "25050-100"
+      },
+      {
+        "field": "descricao",
+        "de": "Equipamento público oficial da Prefeitura Municipal de Duque de Caxias vinculado ao setor de Saúde Especializada / Hospitalar.",
+        "para": "Unidade de alta tecnologia voltada à reabilitação física, intelectual, auditiva e visual, com equipamentos modernos e especialistas de alto nível."
+      }
+    ]
+  },
+  {
+    "id": "rec_428",
+    "nome": "CMDCA — Conselho Municipal dos Direitos da Criança e do Adolescente",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Manoel Vieira, s/nº – Centenário – Duque de Caxias – RJ – CEP 25.030-220",
+        "para": "Rua Manoel Vieira, S/N – Centenário"
+      },
+      {
+        "field": "cep",
+        "de": "25.030-220",
+        "para": "25030-100"
+      }
+    ]
+  },
+  {
+    "id": "rec_26",
+    "nome": "Centro Municipal de Saúde de Duque de Caxias (CMSDC)",
+    "changes": [
+      {
+        "field": "cep",
+        "de": "25020-000",
+        "para": "25011-090"
+      }
+    ]
+  },
+  {
+    "id": "rec_423",
+    "nome": "Casa de Passagem Municipal",
+    "changes": [
+      {
+        "field": "telefone",
+        "de": "(21) 2771-8021",
+        "para": "(21) 3673-3260"
+      },
+      {
+        "field": "horario",
+        "de": "Atendimento 24h",
+        "para": "Segunda a sexta-feira, das 8h às 17h"
+      }
+    ]
+  },
+  {
+    "id": "rec_429",
+    "nome": "COMDEPI — Conselho Municipal de Defesa dos Direitos da Pessoa Idosa",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Manoel Vieira, s/nº – Centenário – Duque de Caxias – RJ – CEP 25.030-220",
+        "para": "Rua Manoel Vieira, S/N – Centenário"
+      },
+      {
+        "field": "cep",
+        "de": "25.030-220",
+        "para": "25030-100"
+      }
+    ]
+  },
+  {
+    "id": "rec_430",
+    "nome": "COMDIM — Conselho Municipal dos Direitos da Mulher",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Manoel Vieira, s/nº – Centenário – Duque de Caxias – RJ – CEP 25.030-220",
+        "para": "Rua Manoel Vieira, S/N – Centenário"
+      },
+      {
+        "field": "cep",
+        "de": "25.030-220",
+        "para": "25030-100"
+      }
+    ]
+  },
+  {
+    "id": "rec_377",
+    "nome": "Conselho Tutelar 1º Distrito",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Marechal Deodoro, nº 557",
+        "para": "Rua Manoel Vieira, S/N – Centenário"
+      },
+      {
+        "field": "bairro",
+        "de": "25 de Agosto",
+        "para": "Centenário"
+      },
+      {
+        "field": "cep",
+        "de": "25071-190",
+        "para": "25030-100"
+      },
+      {
+        "field": "telefone",
+        "de": "(21) 2671-1122",
+        "para": "(21) 2671-8966"
+      },
+      {
+        "field": "horario",
+        "de": "Segunda a sexta-feira, das 09h às 17h",
+        "para": "Segunda a sexta-feira, das 8h às 17h (Plantão 24h)"
+      },
+      {
+        "field": "descricao",
+        "de": "Equipamento público oficial da Prefeitura Municipal de Duque de Caxias vinculado ao setor de Assistência Social (SEASDIH).",
+        "para": "Órgão protetivo autônomo encarregado de zelar pelos direitos de crianças e adolescentes da 1ª Região Administrativa de Duque de Caxias."
+      }
+    ]
+  },
+  {
+    "id": "rec_378",
+    "nome": "Conselho Tutelar 2º Distrito",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Alameda James Franco, nº 03",
+        "para": "Alameda Rui Barbosa, 234 – Jd. Primavera"
+      },
+      {
+        "field": "cep",
+        "de": "25215-270",
+        "para": "25215-220"
+      },
+      {
+        "field": "telefone",
+        "de": "(21) 2773-4455",
+        "para": "(21) 3654-0205"
+      },
+      {
+        "field": "horario",
+        "de": "Segunda a sexta-feira, das 09h às 17h",
+        "para": "Segunda a sexta-feira, das 8h às 17h (Plantão 24h)"
+      },
+      {
+        "field": "descricao",
+        "de": "Equipamento público oficial da Prefeitura Municipal de Duque de Caxias vinculado ao setor de Assistência Social (SEASDIH).",
+        "para": "Órgão de defesa infanto-juvenil encarregado de assegurar o cumprimento do ECA na região do 2º Distrito de Duque de Caxias."
+      }
+    ]
+  },
+  {
+    "id": "rec_379",
+    "nome": "Conselho Tutelar 3º Distrito",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Coronel Carlos Silva, nº 80",
+        "para": "Rua Londres, 33 – Parque Equitativa"
+      },
+      {
+        "field": "bairro",
+        "de": "Imbariê",
+        "para": "Parque Equitativa"
+      },
+      {
+        "field": "cep",
+        "de": "25266-000",
+        "para": "25261-000"
+      },
+      {
+        "field": "telefone",
+        "de": "(21) 2778-1133",
+        "para": "(21) 2672-4827"
+      },
+      {
+        "field": "horario",
+        "de": "Segunda a sexta-feira, das 09h às 17h",
+        "para": "Segunda a sexta-feira, das 8h às 17h (Plantão 24h)"
+      },
+      {
+        "field": "descricao",
+        "de": "Equipamento público oficial da Prefeitura Municipal de Duque de Caxias vinculado ao setor de Assistência Social (SEASDIH).",
+        "para": "Órgão de defesa de direitos da infância e juventude na área correspondente ao 3º Distrito (Imbariê/Santa Cruz da Serra)."
+      }
+    ]
+  },
+  {
+    "id": "rec_380",
+    "nome": "Conselho Tutelar 4º Distrito",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Estrada Rio-D'Ouro, s/nº",
+        "para": "Alameda Mª Belbiana, 10 – Xerém"
+      },
+      {
+        "field": "cep",
+        "de": "25272-000",
+        "para": "25250-000"
+      },
+      {
+        "field": "telefone",
+        "de": "(21) 3658-2244",
+        "para": "(21) 3777-1024"
+      },
+      {
+        "field": "horario",
+        "de": "Segunda a sexta-feira, das 09h às 17h",
+        "para": "Segunda a sexta-feira, das 8h às 17h (Plantão 24h)"
+      },
+      {
+        "field": "descricao",
+        "de": "Equipamento público oficial da Prefeitura Municipal de Duque de Caxias vinculado ao setor de Assistência Social (SEASDIH).",
+        "para": "Zela e defende a garantia de direitos de crianças e adolescentes no 4º Distrito (Xerém e sub-regiões)."
+      }
+    ]
+  },
+  {
+    "id": "rec_25",
+    "nome": "Centro de Referência e Atenção Especializada à Saúde da Mulher (CRAESM)",
+    "changes": [
+      {
+        "field": "cep",
+        "de": "25272-560",
+        "para": "25250-000"
+      }
+    ]
+  },
+  {
+    "id": "rec_354",
+    "nome": "CRAS Beira Mar",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Francisco Alves, s/nº",
+        "para": "Rua Francisco Alves, S/N – Beira Mar"
+      },
+      {
+        "field": "bairro",
+        "de": "Parque Beira Mar",
+        "para": "Beira Mar"
+      },
+      {
+        "field": "cep",
+        "de": "25085-000",
+        "para": "25085-060"
+      },
+      {
+        "field": "telefone",
+        "de": "(21) 2772-8811",
+        "para": "(21) 2671-1595"
+      }
+    ]
+  },
+  {
+    "id": "rec_353",
+    "nome": "CRAS Centenário",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Manoel Vieira, s/nº (Complexo de Assistência Social)",
+        "para": "Rua Manoel Vieira, S/N"
+      },
+      {
+        "field": "cep",
+        "de": "25030-000",
+        "para": "25030-100"
+      },
+      {
+        "field": "telefone",
+        "de": "(21) 2673-4422",
+        "para": "(21) 3774-2782"
+      }
+    ]
+  },
+  {
+    "id": "rec_358",
+    "nome": "CRAS Figueira",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Av. Washington Luiz, s/nº (próximo à E.M. Walter Russo)",
+        "para": "Av. Washington Luiz, S/N – Próximo à E.M. Walter Russo"
+      },
+      {
+        "field": "telefone",
+        "de": "(21) 2776-5544",
+        "para": "(21) 3654-0401"
+      }
+    ]
+  },
+  {
+    "id": "rec_355",
+    "nome": "CRAS Gramacho",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Avenida Presidente Kennedy, nº 2327",
+        "para": "Av. Presidente Kennedy, 2327 – Centro"
+      },
+      {
+        "field": "bairro",
+        "de": "Centro / Gramacho",
+        "para": "Centro"
+      },
+      {
+        "field": "cep",
+        "de": "25010-001",
+        "para": "25010-009"
+      }
+    ]
+  },
+  {
+    "id": "rec_361",
+    "nome": "CRAS Imbariê",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Goindira, nº 54",
+        "para": "Rua Goindira, 54"
+      },
+      {
+        "field": "cep",
+        "de": "25266-000",
+        "para": "25265-000"
+      },
+      {
+        "field": "telefone",
+        "de": "(21) 2778-5544",
+        "para": "(21) 2787-0144"
+      }
+    ]
+  },
+  {
+    "id": "rec_356",
+    "nome": "CRAS Jardim Gramacho",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Avenida Pistóia, s/nº (próximo ao CIEP 218)",
+        "para": "Av. Pistóia, S/N – Próx. ao CIEP 218"
+      },
+      {
+        "field": "cep",
+        "de": "25055-120",
+        "para": "25055-320"
+      },
+      {
+        "field": "telefone",
+        "de": "(21) 2671-5588",
+        "para": "(21) 3659-2550"
+      }
+    ]
+  },
+  {
+    "id": "rec_359",
+    "nome": "CRAS Jardim Primavera",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Av. Marquês de Baependi, s/nº",
+        "para": "Av. Marquês de Baependi, S/N"
+      },
+      {
+        "field": "cep",
+        "de": "25215-260",
+        "para": "25215-285"
+      },
+      {
+        "field": "telefone",
+        "de": "(21) 2773-4499",
+        "para": "(21) 2773-8889"
+      }
+    ]
+  },
+  {
+    "id": "rec_357",
+    "nome": "CRAS Maria José",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Pinto Lira, s/nº",
+        "para": "Rua Pinto Lira, S/N – Engenho do Porto"
+      },
+      {
+        "field": "cep",
+        "de": "25020-000",
+        "para": "25010-180"
+      }
+    ]
+  },
+  {
+    "id": "rec_362",
+    "nome": "CRAS Parada Angélica",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Florianinho, s/nº",
+        "para": "Rua Florianinho, S/N"
+      },
+      {
+        "field": "cep",
+        "de": "25272-560",
+        "para": "25272-400"
+      }
+    ]
+  },
+  {
+    "id": "rec_363",
+    "nome": "CRAS Parada Morabi",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Avenida Vitória, s/nº",
+        "para": "Av. Vitória, S/N – Jd. Anhangá"
+      },
+      {
+        "field": "cep",
+        "de": "25266-000",
+        "para": "25264-320"
+      }
+    ]
+  },
+  {
+    "id": "rec_360",
+    "nome": "CRAS Pilar",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Av. Presidente Kennedy, Lote 10, Quadra 46",
+        "para": "Av. Presidente Kennedy, Lt 10 Qd 46"
+      },
+      {
+        "field": "telefone",
+        "de": "(21) 2776-3399",
+        "para": "(21) 2773-5976"
+      }
+    ]
+  },
+  {
+    "id": "rec_364",
+    "nome": "CRAS Vila Maria Helena",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Antenor Resende, nº 100",
+        "para": "Rua Antenor Resende, 100 – Vila Mª Helena"
+      },
+      {
+        "field": "cep",
+        "de": "25260-000",
+        "para": "25245-290"
+      },
+      {
+        "field": "telefone",
+        "de": "(21) 2675-8822",
+        "para": "(21) 2776-8440"
+      }
+    ]
+  },
+  {
+    "id": "rec_365",
+    "nome": "CRAS Xerém",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Av. Nóbrega Ribeiro, nº 15",
+        "para": "Av. Nóbrega Ribeiro, 15 – Vila N. Srª das Graças"
+      },
+      {
+        "field": "cep",
+        "de": "25272-560",
+        "para": "25250-000"
+      },
+      {
+        "field": "telefone",
+        "de": "(21) 3658-4411",
+        "para": "(21) 2679-1693"
+      }
+    ]
+  },
+  {
+    "id": "rec_366",
+    "nome": "CREAS Centenário",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Manoel Vieira, s/nº (Complexo de Assistência Social)",
+        "para": "Rua Manoel Vieira, S/N – Centenário"
+      },
+      {
+        "field": "cep",
+        "de": "25030-000",
+        "para": "25030-100"
+      },
+      {
+        "field": "telefone",
+        "de": "(21) 2673-4455",
+        "para": "(21) 2771-2879"
+      }
+    ]
+  },
+  {
+    "id": "rec_367",
+    "nome": "CREAS Figueira",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Estrada Velha do Pilar, s/nº",
+        "para": "Estrada Velha do Pilar, S/N – Figueira"
+      },
+      {
+        "field": "cep",
+        "de": "25233-000",
+        "para": "25230-000"
+      },
+      {
+        "field": "telefone",
+        "de": "(21) 2776-8800",
+        "para": "(21) 2773-2342"
+      }
+    ]
+  },
+  {
+    "id": "rec_368",
+    "nome": "CREAS Vila Maria Helena",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Antenor Resende, nº 100",
+        "para": "Rua Antenor Resende, 100 – Vila Mª Helena"
+      },
+      {
+        "field": "cep",
+        "de": "25260-000",
+        "para": "25245-290"
+      },
+      {
+        "field": "telefone",
+        "de": "(21) 2675-9933",
+        "para": "(21) 2676-1032"
+      }
+    ]
+  },
+  {
+    "id": "rec_9",
+    "nome": "SECRETARIA MUNICIPAL DE CULTURA E TURISMO (SMCT)",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Major Frazão, 52 – Jardim 25 de Agosto – Duque de Caxias – RJ – CEP 25.071-210",
+        "para": "Praça do Pacificador, S/N (Raul Cortez) - Centro - Duque de Caxias - RJ"
+      },
+      {
+        "field": "bairro",
+        "de": "25 de Agosto",
+        "para": "Centro"
+      },
+      {
+        "field": "cep",
+        "de": "25.071-210",
+        "para": "25010-230"
+      },
+      {
+        "field": "telefone",
+        "de": "(21) 99359-9377",
+        "para": "(21) 2771-8682"
+      }
+    ]
+  },
+  {
+    "id": "rec_431",
+    "nome": "DEDAF — Departamento de Defesa dos Direitos da Mulher e da Família",
+    "changes": [
+      {
+        "field": "cep",
+        "de": "25.010-150",
+        "para": "25010-150"
+      }
+    ]
+  },
+  {
+    "id": "rec_435",
+    "nome": "Posto de Identificação Civil DETRAN — Imbariê",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Ipameri, s/nº – Imbariê – Duque de Caxias – RJ – CEP 25.266-000",
+        "para": "Rua Ipameri, S/N"
+      },
+      {
+        "field": "cep",
+        "de": "25.266-000",
+        "para": "25265-000"
+      }
+    ]
+  },
+  {
+    "id": "rec_436",
+    "nome": "Posto de Identificação Civil DETRAN — Saracuruna",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Nascimento e Silva, 4, Lote 15 – Saracuruna – Duque de Caxias – RJ – CEP 25.212-000",
+        "para": "Rua Nascimento e Silva, 4, Lt 15"
+      },
+      {
+        "field": "cep",
+        "de": "25.212-000",
+        "para": "25212-320"
+      }
+    ]
+  },
+  {
+    "id": "rec_381",
+    "nome": "GABINETE DO PREFEITO (PAÇO MUNICIPAL)",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Alameda Esmeralda, 206 – Jardim Primavera – Duque de Caxias – RJ – CEP 25.215-260",
+        "para": "Av. Nóbrega Ribeiro, 15 – Xerém"
+      },
+      {
+        "field": "bairro",
+        "de": "Jardim Primavera",
+        "para": "Xerém"
+      },
+      {
+        "field": "cep",
+        "de": "25.215-260",
+        "para": "25250-000"
+      },
+      {
+        "field": "horario",
+        "de": "Segunda a sexta-feira, das 09h às 17h",
+        "para": "Segunda a sexta-feira, das 8h às 17h"
+      },
+      {
+        "field": "descricao",
+        "de": "Equipamento público oficial da Prefeitura Municipal de Duque de Caxias vinculado ao setor de Secretarias e Órgãos.",
+        "para": "Posto de identificação civil descentralizado do DETRAN RJ no 4º Distrito, facilitando o acesso ao registro de cidadania."
+      }
+    ]
+  },
+  {
+    "id": "rec_11",
+    "nome": "SECRETARIA MUNICIPAL DE EDUCAÇÃO (SMEDC)",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Prefeito José Carlos Lacerda, 1.424 – Jardim 25 de Agosto – Duque de Caxias – RJ – CEP 25.071-120",
+        "para": "Rua Prefeito José Carlos Lacerda, n° 1424 – 25 de Agosto"
+      },
+      {
+        "field": "cep",
+        "de": "25.071-120",
+        "para": "25071-120"
+      }
+    ]
+  },
+  {
+    "id": "rec_433",
+    "nome": "Equinovida — Centro Municipal de Equoterapia",
+    "changes": [
+      {
+        "field": "cep",
+        "de": "25.215-400",
+        "para": "25215-170"
+      }
+    ]
+  },
+  {
+    "id": "rec_12",
+    "nome": "SECRETARIA MUNICIPAL DE ESPORTES E LAZER (SMEL)",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Garibaldi, s/nº (Vila Olímpica) – Jardim 25 de Agosto – Duque de Caxias – RJ – CEP 25.075-080",
+        "para": "Rua Garibaldi, S/N — Jardim Vinte e Cinco de Agosto"
+      },
+      {
+        "field": "bairro",
+        "de": "25 de Agosto",
+        "para": "Jardim Vinte e Cinco de Agosto"
+      },
+      {
+        "field": "cep",
+        "de": "25.075-080",
+        "para": "25075-080"
+      },
+      {
+        "field": "horario",
+        "de": "Segunda a sexta-feira, das 09h às 17h",
+        "para": "Segunda a Sexta, 08:00 às 17:00"
+      },
+      {
+        "field": "descricao",
+        "de": "Equipamento público oficial da Prefeitura Municipal de Duque de Caxias vinculado ao setor de Secretarias e Órgãos.",
+        "para": "A Secretaria Municipal de Esporte e Lazer (SMEL) visa planejar..."
+      }
+    ]
+  },
+  {
+    "id": "rec_14",
+    "nome": "SECRETARIA MUNICIPAL DE FAZENDA (SMF)",
+    "changes": [
+      {
+        "field": "cep",
+        "de": "25.215-260",
+        "para": "25215-260"
+      }
+    ]
+  },
+  {
+    "id": "rec_398",
+    "nome": "Fazenda Paraíso (Centro de Tratamento e Convivência)",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Estrada Taboleiro, s/nº",
+        "para": "Estrada Taboleiro - Xerém"
+      },
+      {
+        "field": "cep",
+        "de": "25245-000",
+        "para": "25250-000"
+      }
+    ]
+  },
+  {
+    "id": "rec_35",
+    "nome": "Centro de Fisioterapia Pastor Norival Franco (Xerém)",
+    "changes": [
+      {
+        "field": "cep",
+        "de": "25272-560",
+        "para": "25250-000"
+      }
+    ]
+  },
+  {
+    "id": "rec_434",
+    "nome": "Getsêmani — Centro Comunitário de Acolhimento",
+    "changes": [
+      {
+        "field": "bairro",
+        "de": "Parque Capivari",
+        "para": "Capivari"
+      },
+      {
+        "field": "cep",
+        "de": "25.220-100",
+        "para": "25243-150"
+      }
+    ]
+  },
+  {
+    "id": "rec_16",
+    "nome": "SECRETARIA MUNICIPAL DE GOVERNO (SEGOV)",
+    "changes": [
+      {
+        "field": "cep",
+        "de": "25.215-260",
+        "para": "25225-210"
+      },
+      {
+        "field": "descricao",
+        "de": "Coordena as atividades de governo...",
+        "para": "Coordena as atividades de governo..."
+      }
+    ]
+  },
+  {
+    "id": "rec_24",
+    "nome": "SECRETARIA MUNICIPAL DE URBANISMO (SMU)",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Alameda Bartolomeu Gusmão, 85 – Jardim Primavera – Duque de Caxias – RJ – CEP 25.215-320",
+        "para": "Al. Bartolomeu Gusmão, antiga Rua Luiza Arruda nº 85 - Jardim Primavera"
+      },
+      {
+        "field": "cep",
+        "de": "25.215-320",
+        "para": "25215-320"
+      },
+      {
+        "field": "telefone",
+        "de": "(21) 2783-6066",
+        "para": "(21) 96557-7062"
+      }
+    ]
+  },
+  {
+    "id": "rec_29",
+    "nome": "Hospital Infantil Ismélia da Silveira",
+    "changes": [
+      {
+        "field": "cep",
+        "de": "25020-000",
+        "para": "25010-009"
+      }
+    ]
+  },
+  {
+    "id": "rec_30",
+    "nome": "Hospital Infantil de Parada Angélica Padre Guilherme",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Avaristo de Morais, s/n – Parada Angélica - Duque de Caxias – RJ",
+        "para": "Rua Evaristo de Morais, s/n – Parada Angélica"
+      }
+    ]
+  },
+  {
+    "id": "rec_31",
+    "nome": "Hospital Municipal Dr. Moacyr Rodrigues do Carmo",
+    "changes": [
+      {
+        "field": "cep",
+        "de": "25010-000",
+        "para": "25085-009"
+      }
+    ]
+  },
+  {
+    "id": "rec_32",
+    "nome": "Hospital Adão Pereira Nunes – HMAPN",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rodovia Washington Luiz, s/n, km109. Jardim Primavera – Duque de Caxias – RJ",
+        "para": "Rodovia Washington Luiz, s/n, km 109 - Jardim Primavera"
+      }
+    ]
+  },
+  {
+    "id": "rec_31",
+    "nome": "Hospital Municipal Dr. Moacyr Rodrigues do Carmo",
+    "changes": [
+      {
+        "field": "bairro",
+        "de": "Beira Mar",
+        "para": "Parque Beira Mar"
+      },
+      {
+        "field": "cep",
+        "de": "25085-009",
+        "para": "25065-000"
+      },
+      {
+        "field": "telefone",
+        "de": "(21) 2671-0671 / 2671-6285 / 2672-1090",
+        "para": "(21) 2773-0000"
+      }
+    ]
+  },
+  {
+    "id": "rec_28",
+    "nome": "Hospital Municipal Do Olho Júlio Cândido de Brito",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Doutor Lauriano, Nº1145 – Duque de Caxias – RJ",
+        "para": "Rua Doutor Lauriano, nº 1145"
+      },
+      {
+        "field": "bairro",
+        "de": "Doutor Laureano",
+        "para": "Dr. Lauriano"
+      },
+      {
+        "field": "cep",
+        "de": "25.060-220",
+        "para": "25060-220"
+      }
+    ]
+  },
+  {
+    "id": "rec_382",
+    "nome": "Sede Histórica / 25 de Agosto",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Praça Gov. Roberto Silveira, 31",
+        "para": "Alameda Xavier Filho - Jardim Primavera"
+      },
+      {
+        "field": "bairro",
+        "de": "25 de Agosto",
+        "para": "Jardim Primavera"
+      },
+      {
+        "field": "cep",
+        "de": "25075-010",
+        "para": "25215-310"
+      },
+      {
+        "field": "descricao",
+        "de": "Equipamento público oficial da Prefeitura Municipal de Duque de Caxias vinculado ao setor de Segurança, Subprefeituras e Cultura.",
+        "para": "Unidade especializada pioneira de Duque de Caxias para o tratamento médico de pequenos animais domésticos (cães e gatos), com foco na população de baixa renda."
+      }
+    ]
+  },
+  {
+    "id": "rec_2",
+    "nome": "IPMDC – INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES PÚBLICOS DO MUNICÍPIO DE DUQUE DE CAXIAS",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Av. Jornalista Moacir Padilha, 642 – Jardim Primavera – Duque de Caxias – RJ – (em frente à Praça Benzo)",
+        "para": "Avenida Jornalista Moacir Padilha, S/N (em frente à Praça Benzo de Cavour) — Jardim Primavera"
+      },
+      {
+        "field": "cep",
+        "de": "Não informado",
+        "para": "25215-285"
+      },
+      {
+        "field": "telefone",
+        "de": "(21) 2773-5500",
+        "para": "WhatsApp: (21) 3257-6000"
+      },
+      {
+        "field": "horario",
+        "de": "Segunda a sexta-feira, das 09h às 17h",
+        "para": "Segunda a sexta, das 8h às 17h"
+      },
+      {
+        "field": "descricao",
+        "de": "Equipamento público oficial da Prefeitura Municipal de Duque de Caxias vinculado ao setor de Secretarias e Órgãos.",
+        "para": "O IPMDC é a autarquia responsável por gerir a previdência social dos servidores públicos municipais de Duque de Caxias, garantindo a concessão e manutenção dos benefícios de aposentadoria e pensão."
+      }
+    ]
+  },
+  {
+    "id": "rec_17",
+    "nome": "SECRETARIA MUNICIPAL DE MEIO AMBIENTE (SMMA)",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Alameda James Franco, 3 – Jardim Primavera – Duque de Caxias – RJ – CEP 25.215-260",
+        "para": "Alameda James Franco, 03 – Jardim Primavera"
+      },
+      {
+        "field": "bairro",
+        "de": "Jardim Primavera",
+        "para": "Centro"
+      },
+      {
+        "field": "cep",
+        "de": "25.215-260",
+        "para": "25215-265"
+      },
+      {
+        "field": "telefone",
+        "de": "(21) 2776-1141 / (21) 2773-8520 / (21) 2773-8493",
+        "para": "(21)2776-1141"
+      }
+    ]
+  },
+  {
+    "id": "rec_18",
+    "nome": "SECRETARIA MUNICIPAL DE OBRAS E AGRICULTURA (SMOAG)",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Avenida Primavera, 78 – Jardim Primavera – Duque de Caxias – RJ – CEP 25.215-255",
+        "para": "Avenida Primavera 78 - Jardim Primavera"
+      },
+      {
+        "field": "cep",
+        "de": "25.215-255",
+        "para": "25215-255"
+      },
+      {
+        "field": "telefone",
+        "de": "(21) 2773-5500",
+        "para": "(21) 2773-6150"
+      }
+    ]
+  },
+  {
+    "id": "rec_4",
+    "nome": "PROCURADORIA-GERAL DO MUNICÍPIO (PGM)",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Praça Roberto Silveira, 31 – 3º andar – Jardim 25 de Agosto – Duque de Caxias – RJ – CEP 25.071-210",
+        "para": "Praça Roberto Silveira, n° 31, 3° andar - Jardim 25 de Agosto"
+      },
+      {
+        "field": "bairro",
+        "de": "25 de Agosto",
+        "para": "Jardim 25 de Agosto"
+      },
+      {
+        "field": "cep",
+        "de": "25.071-210",
+        "para": "25071-210"
+      }
+    ]
+  },
+  {
+    "id": "rec_19",
+    "nome": "SECRETARIA MUNICIPAL DE PROTEÇÃO ANIMAL (SMPA)",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Alameda Bartolomeu Gusmão, 85 – Jardim Primavera – Duque de Caxias – RJ – CEP 25.215-320",
+        "para": "Avenida República do Paraguai, Lote 3 - Vila Sarapuí"
+      },
+      {
+        "field": "bairro",
+        "de": "Jardim Primavera",
+        "para": "Vila Sarapuí"
+      },
+      {
+        "field": "cep",
+        "de": "25.215-320",
+        "para": "25050-100"
+      },
+      {
+        "field": "telefone",
+        "de": "(21) 2783-6066",
+        "para": "21 99837-6831"
+      }
+    ]
+  },
+  {
+    "id": "rec_20",
+    "nome": "SECRETARIA MUNICIPAL DE SAÚDE (SMS)",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Alameda James Franco, 3 – Jardim Primavera – Duque de Caxias – RJ – CEP 25.215-260",
+        "para": "Alameda James Franco, 03 - Jardim Primavera"
+      },
+      {
+        "field": "cep",
+        "de": "25.215-260",
+        "para": "25215-260"
+      }
+    ]
+  },
+  {
+    "id": "rec_21",
+    "nome": "SECRETARIA MUNICIPAL DE SEGURANÇA PÚBLICA (SMSP)",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Praça Roberto Silveira, 31 – 4º andar – Jardim 25 de Agosto – Duque de Caxias – RJ – CEP 25.071-210",
+        "para": "Rua Silva Fernandes, 275 - Parque Duque - Duque de Caxias"
+      },
+      {
+        "field": "bairro",
+        "de": "25 de Agosto",
+        "para": "Parque Duque"
+      },
+      {
+        "field": "cep",
+        "de": "25.071-210",
+        "para": "25085-015"
+      }
+    ]
+  },
+  {
+    "id": "rec_7",
+    "nome": "SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL E DIREITOS HUMANOS (SEASDIH)",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Av. Brigadeiro Lima e Silva, 1618 – 25 de Agosto",
+        "para": "Av. Brigadeiro Lima e Silva, 1618 – Jd. 25 de Agosto"
+      },
+      {
+        "field": "bairro",
+        "de": "25 de Agosto",
+        "para": "Jardim 25 de Agosto"
+      },
+      {
+        "field": "telefone",
+        "de": "(21) 2672-6682",
+        "para": "(21) 2672-6652"
+      },
+      {
+        "field": "horario",
+        "de": "Segunda a Sexta, 08:00 às 17:00",
+        "para": "Segunda a sexta-feira, das 8h às 17h"
+      }
+    ]
+  },
+  {
+    "id": "rec_23",
+    "nome": "SECRETARIA MUNICIPAL DE TRANSPORTES E SERVIÇOS PÚBLICOS (SMTSP)",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Major Frazão, 52 – Jardim 25 de Agosto – Duque de Caxias – RJ – CEP 25.071-210",
+        "para": "Major Frazão 181 - 4° Andar - 25 de Agosto"
+      },
+      {
+        "field": "cep",
+        "de": "25.071-210",
+        "para": "25071.210"
+      },
+      {
+        "field": "telefone",
+        "de": "(21) 2773-5500",
+        "para": "(21) 2671-7600"
+      }
+    ]
+  },
+  {
+    "id": "rec_90",
+    "nome": "UBS Abdul Nasser Haikal/ USF Parque Chuno (Mesmo local, equipes distintas)",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Avenida Marques de Baependi s/n, Jardim Primavera - 2º Distrito. CEP: 25265-008",
+        "para": "Avenida Marques de Baependi, s/n, Jardim Primavera"
+      },
+      {
+        "field": "cep",
+        "de": "25265-008",
+        "para": "25215-285"
+      }
+    ]
+  },
+  {
+    "id": "rec_90",
+    "nome": "UBS Abdul Nasser Haikal/ USF Parque Chuno (Mesmo local, equipes distintas)",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Avenida Marques de Baependi, s/n, Jardim Primavera",
+        "para": "Rua Maturim, s/n - Bom Retiro"
+      },
+      {
+        "field": "bairro",
+        "de": "Jardim Primavera",
+        "para": "Bom Retiro"
+      },
+      {
+        "field": "cep",
+        "de": "25215-285",
+        "para": "25225-000"
+      }
+    ]
+  },
+  {
+    "id": "rec_91",
+    "nome": "UBS Barão do Amapá",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Andréia, s/nº - Barão do Amapá - 4° Distrito - CEP: 25235-452",
+        "para": "Rua Castro Alves, s/nº, Copacabana"
+      },
+      {
+        "field": "bairro",
+        "de": "Barão do Amapá",
+        "para": "Copacabana"
+      },
+      {
+        "field": "cep",
+        "de": "25235-452",
+        "para": "25060-150"
+      }
+    ]
+  },
+  {
+    "id": "rec_92",
+    "nome": "UBS Antônio Granja",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua General Moreira Sampaio, s/nº, Parque Fluminense - CEP: 25045-380",
+        "para": "Rua General Moreira Sampaio, s/nº, Parque Esperança"
+      },
+      {
+        "field": "bairro",
+        "de": "Parque Fluminense",
+        "para": "Parque Esperança"
+      },
+      {
+        "field": "descricao",
+        "de": "Equipamento público oficial da Prefeitura Municipal de Duque de Caxias vinculado ao setor de Saúde Básica (APS / USF / UBS).",
+        "para": "Integração de serviços de saúde comunitários e médicos voltados à população do Parque Esperança."
+      }
+    ]
+  },
+  {
+    "id": "rec_105",
+    "nome": "UBS Aparecida Tavares (Em transição para se tornar ESF - Comporta USF Vila São Luiz)",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Av.Brasil, s/n° - Esquina c/ 14 de Julho – Vila São Luiz - 1º Distrito 25065-142",
+        "para": "Av. Brasil, S/N - Vila São Luiz"
+      },
+      {
+        "field": "bairro",
+        "de": "Vila São Luís",
+        "para": "Vila São Luiz"
+      },
+      {
+        "field": "cep",
+        "de": "25065-142",
+        "para": "25065-010"
+      },
+      {
+        "field": "descricao",
+        "de": "Equipamento público oficial da Prefeitura Municipal de Duque de Caxias vinculado ao setor de Saúde Básica (APS / USF / UBS).",
+        "para": "Presta serviços de atenção primária no bairro Vila São Luiz, promovendo a prevenção e o controle de doenças crônicas na comunidade."
+      }
+    ]
+  },
+  {
+    "id": "rec_91",
+    "nome": "UBS Barão do Amapá",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Castro Alves, s/nº, Copacabana",
+        "para": "Rua Andreia, s/nº, Amapá"
+      },
+      {
+        "field": "bairro",
+        "de": "Copacabana",
+        "para": "Amapá"
+      },
+      {
+        "field": "cep",
+        "de": "25060-150",
+        "para": "25235-452"
+      }
+    ]
+  },
+  {
+    "id": "rec_97",
+    "nome": "UBS \"Bidi\" (UBS Senhor Benedito Nascimento - BIDI)",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua São Luis, N°300 - Pilar, 2º Distrito. CEP.: 25225-750",
+        "para": "Rua São Luiz, nº 300 - Pilar"
+      },
+      {
+        "field": "cep",
+        "de": "25225-750",
+        "para": "25233-000"
+      },
+      {
+        "field": "descricao",
+        "de": "Equipamento público oficial da Prefeitura Municipal de Duque de Caxias vinculado ao setor de Saúde Básica (APS / USF / UBS).",
+        "para": "Conhecido localmente como Posto do BIDI, oferece cuidados preventivos e acolhimento em saúde de proximidade na região do Pilar."
+      }
+    ]
+  },
+  {
+    "id": "rec_102",
+    "nome": "UBS Cangulo (UBS Cangulo - Dr. Iveraldo Carvalho Pessôa)",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Padre Bartolomeu Fagundes, s/n - Cangulo - 2° Distrito - CEP: 25220-445",
+        "para": "Rua Padre Bartolomeu Fagundes, s/nº, Cangulo"
+      },
+      {
+        "field": "cep",
+        "de": "25220-445",
+        "para": "25225-330"
+      }
+    ]
+  },
+  {
+    "id": "rec_100",
+    "nome": "UBS Capivari",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Avenida Marques de Barbacena, N° 22 - Parque Capivari - 3° Distrito - CEP: 25245-230",
+        "para": "Av. Marques de Barbacena, nº 22, Parque Capivari"
+      },
+      {
+        "field": "cep",
+        "de": "25245-230",
+        "para": "25243-150"
+      }
+    ]
+  },
+  {
+    "id": "rec_437",
+    "nome": "UBS Centro — Unidade Básica de Saúde",
+    "changes": [
+      {
+        "field": "cep",
+        "de": "25.070-350",
+        "para": "25070-000"
+      },
+      {
+        "field": "horario",
+        "de": "Segunda a sexta-feira, das 08h às 17h",
+        "para": "08:00 às 17:00"
+      }
+    ]
+  },
+  {
+    "id": "rec_98",
+    "nome": "USF Sérgio de Freitas Américo (UBS Covanca - É UBS)",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Covanca, n° 340 - Parque Lafaiete - 1° Distrito - CEP: 25025-500",
+        "para": "Av. Miguel Couto, nº 340 - Parque Lafaiete"
+      },
+      {
+        "field": "cep",
+        "de": "25025-500",
+        "para": "25015-010"
+      }
+    ]
+  },
+  {
+    "id": "rec_94",
+    "nome": "UBS Edna Siqueira Salles",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Paracatu, s/nº - Jardim Gramacho - CEP: 25055-110",
+        "para": "Rua Paracatu, s/nº, Jardim Gramacho"
+      },
+      {
+        "field": "descricao",
+        "de": "Equipamento público oficial da Prefeitura Municipal de Duque de Caxias vinculado ao setor de Saúde Básica (APS / USF / UBS).",
+        "para": "Apoio médico essencial à comunidade do Jardim Gramacho, trabalhando no acompanhamento de rotina e saúde da família."
+      }
+    ]
+  },
+  {
+    "id": "rec_107",
+    "nome": "UBS Evangelina Tavares (Em transição para se tornar ESF )",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Avenida Expedicionário José Amaro, n° 755 - Vila São Luis- 1° Distrito - CEP: 25065-090",
+        "para": "Av. Expedicionário José Amaro, nº 755 - Vila São Luiz"
+      },
+      {
+        "field": "bairro",
+        "de": "Vila São Luís",
+        "para": "Vila São Luiz"
+      }
+    ]
+  },
+  {
+    "id": "rec_95",
+    "nome": "UBS Fátima de Oliveira Thomaz (UBS Jardim Leal)",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Avenida Pedro Lessa Quadra 24 Lote 16 - Olavo Bilac - CEP: 25035-800",
+        "para": "Avenida Pedro Lessa, Qd 24 lote 16 - Olavo Bilac"
+      },
+      {
+        "field": "cep",
+        "de": "25035-800",
+        "para": "25015-180"
+      }
+    ]
+  },
+  {
+    "id": "rec_93",
+    "nome": "UBS Doutor José de Freitas",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Joaquim Tenório, S/N - Vila Operária, Duque de Caxias - RJ, 25086-390 (Praça José de Jesus) - 1° Distrito",
+        "para": "Praça José de Jesus, s/nº, Parque Felicidade"
+      },
+      {
+        "field": "bairro",
+        "de": "Vila Operária",
+        "para": "Parque Felicidade"
+      },
+      {
+        "field": "cep",
+        "de": "25086-390",
+        "para": "25080-510"
+      },
+      {
+        "field": "telefone",
+        "de": "(21) 2773-5500",
+        "para": "(21) 2650-1295"
+      },
+      {
+        "field": "descricao",
+        "de": "Equipamento público oficial da Prefeitura Municipal de Duque de Caxias vinculado ao setor de Saúde Básica (APS / USF / UBS).",
+        "para": "Ponto básico de atendimento integral e médico para os residentes do Parque Felicidade e imediações."
+      }
+    ]
+  },
+  {
+    "id": "rec_104",
+    "nome": "UBS Alayde Cunha (Em transição para se tornar ESF - Comporta USF Copacabana/ USF Vila Leopoldina)",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Suruí, S/Nº, Dr. Laureano - 1° Distrito - CEP: 25060-150",
+        "para": "Avenida Gomes Freire, Qd 68 Lote 07 - Vila Santo Antonio"
+      },
+      {
+        "field": "bairro",
+        "de": "Doutor Laureano",
+        "para": "Vila Santo Antonio"
+      },
+      {
+        "field": "cep",
+        "de": "25060-150",
+        "para": "25040-000"
+      },
+      {
+        "field": "descricao",
+        "de": "Equipamento público oficial da Prefeitura Municipal de Duque de Caxias vinculado ao setor de Saúde Básica (APS / USF / UBS).",
+        "para": "Apoio fundamental à saúde básica com acompanhamento médico e multiprofissional contínuo no bairro Pantanal."
+      }
+    ]
+  },
+  {
+    "id": "rec_95",
+    "nome": "UBS Fátima de Oliveira Thomaz (UBS Jardim Leal)",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Avenida Pedro Lessa, Qd 24 lote 16 - Olavo Bilac",
+        "para": "Rua Solimões, s/n, Figueira (esquina com Rodovia Washington Luís)"
+      },
+      {
+        "field": "bairro",
+        "de": "Olavo Bilac",
+        "para": "Figueira"
+      },
+      {
+        "field": "cep",
+        "de": "25015-180",
+        "para": "25230-000"
+      }
+    ]
+  },
+  {
+    "id": "rec_101",
+    "nome": "UBS Nilza Maria Cardoso Rodrigues",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Avenida General Sólon Ribeiro, N° 35 - Loja A, Engenho do Porto - 1° Distrito - CEP: 25015-210 - Esquina com Raul Pompéia",
+        "para": "Av. General Solon Ribeiro, nº 35 Loja A - Engenho do Porto"
+      },
+      {
+        "field": "cep",
+        "de": "25015-210",
+        "para": "25015-400"
+      }
+    ]
+  },
+  {
+    "id": "rec_96",
+    "nome": "UBS Rural",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Estrada do Tabuleiro, s/nº- Xerém - 4° Distrito - CEP: 25245-750",
+        "para": "Estrada do Tabuleiro, s/n - Xerém"
+      },
+      {
+        "field": "cep",
+        "de": "25245-750",
+        "para": "25250-000"
+      }
+    ]
+  },
+  {
+    "id": "rec_103",
+    "nome": "UBS Sarapuí / USF Sarapuí (Em transição para se tornar ESF)",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Avenida Pelotas, s/n° - Sarapuí - 1º Distrito 25050-100",
+        "para": "Avenida Pelotas, s/nº, Jardim Gramacho"
+      },
+      {
+        "field": "bairro",
+        "de": "Sarapuí",
+        "para": "Jardim Gramacho"
+      },
+      {
+        "field": "cep",
+        "de": "25050-100",
+        "para": "25050-501"
+      }
+    ]
+  },
+  {
+    "id": "rec_76",
+    "nome": "UBS José Carlos Gianes (USF Vila Canaã - É USF)",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Bonsucesso, S/N – Vila Canaã, 3° Distrito de Duque de Caxias 25255-160",
+        "para": "Rua Bonsucesso, S/N – Vila Canaã"
+      },
+      {
+        "field": "cep",
+        "de": "25255-160",
+        "para": "25240-000"
+      },
+      {
+        "field": "descricao",
+        "de": "Equipamento público oficial da Prefeitura Municipal de Duque de Caxias vinculado ao setor de Saúde Básica (APS / USF / UBS).",
+        "para": "Acolhimento preventivo de excelente estrutura voltado ao bem-estar e saúde do bairro Vila Canaã."
+      }
+    ]
+  },
+  {
+    "id": "rec_37",
+    "nome": "UPA Parque Beira Mar",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rodovia Washington Luiz, 3200 – Beira Mar – Duque de Caxias – RJ",
+        "para": "Rodovia Washington Luiz, 3200 (ao lado do HMMRC) – Beira Mar"
+      },
+      {
+        "field": "cep",
+        "de": "25010-000",
+        "para": "25085-009"
+      }
+    ]
+  },
+  {
+    "id": "rec_39",
+    "nome": "UPA LAFAIETE",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "R: Joaquim Peçanha s/nº - 1532 – Parque Lafaiete – Duque de Caxias – RJ",
+        "para": "Rua Joaquim Peçanha, s/nº - 1532 – Parque Lafaiete"
+      }
+    ]
+  },
+  {
+    "id": "rec_38",
+    "nome": "UPA SARAPUÍ",
+    "changes": [
+      {
+        "field": "bairro",
+        "de": "Sarapuí",
+        "para": "Vila Sarapuí"
+      },
+      {
+        "field": "telefone",
+        "de": "(21) 3134-7-0239",
+        "para": "(21) 3134-7023"
+      }
+    ]
+  },
+  {
+    "id": "rec_36",
+    "nome": "UPA Infantil Walter Garcia",
+    "changes": [
+      {
+        "field": "cep",
+        "de": "25020-000",
+        "para": "25010-009"
+      }
+    ]
+  },
+  {
+    "id": "rec_37",
+    "nome": "UPA Parque Beira Mar",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rodovia Washington Luiz, 3200 (ao lado do HMMRC) – Beira Mar",
+        "para": "Av. Brigadeiro Lima e Silva, S/N"
+      },
+      {
+        "field": "bairro",
+        "de": "Beira Mar",
+        "para": "Parque Beira Mar"
+      },
+      {
+        "field": "cep",
+        "de": "25085-009",
+        "para": "25071-180"
+      },
+      {
+        "field": "horario",
+        "de": "Atendimento 24 Horas Ininterrupto",
+        "para": "24 horas"
+      }
+    ]
+  },
+  {
+    "id": "rec_43",
+    "nome": "UPH Pilar",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Carlos Alvear s/nº - Pilar – Duque de Caxias – RJ",
+        "para": "Rua Carlos Alvear, s/nº - Pilar"
+      }
+    ]
+  },
+  {
+    "id": "rec_45",
+    "nome": "UPH Xerém",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Nilo Vieira, 353 – Centro",
+        "para": "Rua Nóbrega Ribeiro, s/nº - Xerém"
+      },
+      {
+        "field": "bairro",
+        "de": "Centro",
+        "para": "Xerém"
+      },
+      {
+        "field": "cep",
+        "de": "25011-000",
+        "para": "25250-000"
+      },
+      {
+        "field": "telefone",
+        "de": "(21) 3774-4020",
+        "para": "(21) 2679-1837"
+      }
+    ]
+  },
+  {
+    "id": "rec_24",
+    "nome": "SECRETARIA MUNICIPAL DE URBANISMO (SMU)",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Al. Bartolomeu Gusmão, antiga Rua Luiza Arruda nº 85 - Jardim Primavera",
+        "para": "Al. Bartolomeu Gusmão, antiga Rua Luiza Arruda nº 85 - Bairro Jardim Primavera"
+      },
+      {
+        "field": "telefone",
+        "de": "(21) 96557-7062",
+        "para": "(21) 2672-6682"
+      }
+    ]
+  },
+  {
+    "id": "rec_84",
+    "nome": "USF Enfermeira Alaíde Ramos Amasonas (Equipes II e III de Jardim Anhangá)",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Violeta, S/N° - Jardim Anhangá - 3° Distrito - CEP: 25264-015 (CIEP 319: ODUVALDO VIANA FILHO)",
+        "para": "Rua Violeta, s/n - Jardim Anhangá (CIEP 319 - Oduvaldo Viana Filho)"
+      },
+      {
+        "field": "cep",
+        "de": "25264-015",
+        "para": "25260-120"
+      }
+    ]
+  },
+  {
+    "id": "rec_55",
+    "nome": "Centro de Especialidade Odontológica (CEO Xerém)",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Av. Venância, s/nº (Terminal Rodoviário) – Xerém – Duque de Caxias – RJ",
+        "para": "Avenida Pedro Alvares Cabral, Lt 15 Qd 36 - Jardim Barro Branco"
+      },
+      {
+        "field": "bairro",
+        "de": "Xerém",
+        "para": "Jardim Barro Branco"
+      },
+      {
+        "field": "cep",
+        "de": "25250-000",
+        "para": "25265-000"
+      }
+    ]
+  },
+  {
+    "id": "rec_67",
+    "nome": "USF Sebastião de Souza Alves (USF Beira Mar ou CASF Beira Mar)",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Francisco Alves, s/n° - Parque Beira Mar - 1º Distrito 25085-420",
+        "para": "Rua Francisco Alves, s/nº - Parque Beira Mar"
+      },
+      {
+        "field": "cep",
+        "de": "25085-420",
+        "para": "25085-060"
+      }
+    ]
+  },
+  {
+    "id": "rec_73",
+    "nome": "UBS Calundú",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Estr. do Calundu, S/N° – Nossa Senhora do carmo – 2º distrito CEP: 25040-610",
+        "para": "Avenida Calundú, s/nº - Bairro Nossa Senhora do Carmo"
+      },
+      {
+        "field": "cep",
+        "de": "25040-610",
+        "para": "25045-000"
+      },
+      {
+        "field": "descricao",
+        "de": "Equipamento público oficial da Prefeitura Municipal de Duque de Caxias vinculado ao setor de Saúde Básica (APS / USF / UBS).",
+        "para": "Garante atendimento médico ambulatorial de atenção primária no bairro de Nossa Senhora do Carmo (Calundú)."
+      }
+    ]
+  },
+  {
+    "id": "rec_61",
+    "nome": "USF Maria Dalva Pereira Gomes (USF Centenário)",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua: João Ribeiro, s/n° - Centenário - 1º Distrito 25030-160",
+        "para": "Rua João Ribeiro, s/nº - Centenário"
+      },
+      {
+        "field": "cep",
+        "de": "25030-160",
+        "para": "25010-090"
+      }
+    ]
+  },
+  {
+    "id": "rec_69",
+    "nome": "USF Cidade dos Meninos",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Av. Darcy Vargas, S/N, (Antiga Estrada Da Camboaba, Km17) - Cidade Dos Meninos - 2º Distrito 25237-010",
+        "para": "Avenida Darcy Vargas, s/nº (Antiga Estrada da Camboaba, Km 17) - Cidade dos Meninos"
+      },
+      {
+        "field": "cep",
+        "de": "25237-010",
+        "para": "25225-100"
+      }
+    ]
+  },
+  {
+    "id": "rec_77",
+    "nome": "USF Cristovão Colombo",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Zumbi dos Palmares, s/n° - Cristovão Colombo - 3º Distrito - CEP: 25272-590",
+        "para": "Rua Zumbi dos Palmares, s/nº - Cristóvão Colombo"
+      },
+      {
+        "field": "cep",
+        "de": "25272-590",
+        "para": "25265-000"
+      }
+    ]
+  },
+  {
+    "id": "rec_65",
+    "nome": "USF Dois Irmãos",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua da Assembleia, s/n° - Parque Beira Mar - 1º Distrito 25085-305",
+        "para": "Rua da Assembleia, s/nº - Parque Beira Mar"
+      },
+      {
+        "field": "cep",
+        "de": "25085-305",
+        "para": "25085-000"
+      }
+    ]
+  },
+  {
+    "id": "rec_115",
+    "nome": "Clínica da Família Gramacho",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Entre Rios s/n – Vila leopoldina - 1º Distrito 25035-400 ao lado da praça",
+        "para": "Rua Entre Rios, s/nº - Vila Leopoldina"
+      },
+      {
+        "field": "cep",
+        "de": "25035-400",
+        "para": "25050-000"
+      },
+      {
+        "field": "descricao",
+        "de": "Equipamento público oficial da Prefeitura Municipal de Duque de Caxias vinculado ao setor de Saúde Básica (APS / USF / UBS).",
+        "para": "Presta serviços de atenção primária no bairro Vila Leopoldina, integrando exames e vacinação à rotina das famílias."
+      }
+    ]
+  },
+  {
+    "id": "rec_78",
+    "nome": "USF Imbariê",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Venceslau Bras nº 15 Imbarie - 3º Distrito - CEP: 25275-160 ao lado do CEO",
+        "para": "Rua Venceslau Bras, nº 15 - Imbariê"
+      },
+      {
+        "field": "cep",
+        "de": "25275-160",
+        "para": "25265-000"
+      }
+    ]
+  },
+  {
+    "id": "rec_79",
+    "nome": "USF Jardim Anhangá",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Pacoty, n° 20 – Jardim Anhangá - 3º Distrito - CEP: 25264-580",
+        "para": "Rua Pacoty, nº 20 - Jardim Anhangá"
+      },
+      {
+        "field": "cep",
+        "de": "25264-580",
+        "para": "25260-120"
+      }
+    ]
+  },
+  {
+    "id": "rec_63",
+    "nome": "USF Jardim Gramacho I II III V",
+    "changes": [
+      {
+        "field": "cep",
+        "de": "25055-052",
+        "para": "25055-120"
+      }
+    ]
+  },
+  {
+    "id": "rec_62",
+    "nome": "USF Carlos Roberto Zagari Koeler (USF Jardim Leal)",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua João Olinto Machado, s/n° - Jardim Leal - 1º Distrito 25035-520",
+        "para": "Rua João Olinto Machado, s/nº - Jardim Leal"
+      },
+      {
+        "field": "cep",
+        "de": "25035-520",
+        "para": "25070-130"
+      },
+      {
+        "field": "descricao",
+        "de": "Equipamento público oficial da Prefeitura Municipal de Duque de Caxias vinculado ao setor de Saúde Básica (APS / USF / UBS).",
+        "para": "Cuidados de saúde integrados dedicados às famílias do Jardim Leal, prestando orientações e preventivos especializados."
+      }
+    ]
+  },
+  {
+    "id": "rec_87",
+    "nome": "USF Jardim Olimpo",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Maurícia s/n, Jardim Olimpo (Esquina com Rua Olimpo) - 4º Distrito - 25255-350",
+        "para": "Rua Mauricia, s/n - Jardim Olimpo"
+      },
+      {
+        "field": "cep",
+        "de": "25255-350",
+        "para": "25250-000"
+      }
+    ]
+  },
+  {
+    "id": "rec_59",
+    "nome": "USF Mangueirinha",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua da Mina s/ n Mangueirinha – Centenário - 1º Distrito 25030-365",
+        "para": "Rua da Mina, s/nº - Mangueirinha (Centenário)"
+      },
+      {
+        "field": "cep",
+        "de": "25030-365",
+        "para": "25010-090"
+      }
+    ]
+  },
+  {
+    "id": "rec_116",
+    "nome": "Clínica da Família Vila Maria Helena",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Salvador Correia, S/N° – Vila Maria Helena - 2º Distrito - CEP: 25265-008",
+        "para": "Rua Mario Feijó, s/nº - Vila Maria Helena"
+      },
+      {
+        "field": "cep",
+        "de": "25265-008",
+        "para": "25245-390"
+      },
+      {
+        "field": "descricao",
+        "de": "Equipamento público oficial da Prefeitura Municipal de Duque de Caxias vinculado ao setor de Saúde Básica (APS / USF / UBS).",
+        "para": "Oferece cuidados preventivos e visitas domiciliares contínuas para os bairros Vila Maria Helena e Codora."
+      }
+    ]
+  },
+  {
+    "id": "rec_70",
+    "nome": "USF Nelson Chaves de Araújo",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Nossa Srª Aparecida, s/n°- Santa Isabel - 2º Distrito. CEP: 25233-240",
+        "para": "Rua Nossa Srª Aparecida, s/nº - Santa Isabel"
+      },
+      {
+        "field": "cep",
+        "de": "25233-240",
+        "para": "25225-000"
+      }
+    ]
+  },
+  {
+    "id": "rec_83",
+    "nome": "USF Nova Campina",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Seis, s/nº - esquinas com Rua A e G - Nova Campinas - 3º Distrito - CEP: 25267-020",
+        "para": "Rua Seis, s/nº (esquina com Rua A e G) - Nova Campinas"
+      },
+      {
+        "field": "cep",
+        "de": "25267-020",
+        "para": "25260-310"
+      }
+    ]
+  },
+  {
+    "id": "rec_66",
+    "nome": "USF Otacílio da Silva (USF Olavo Bilac)",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Aquidaban, s/n° - Olavo Bilac - 1º Distrito 25036-210",
+        "para": "Rua Aquidaban, s/nº - Olavo Bilac"
+      },
+      {
+        "field": "cep",
+        "de": "25036-210",
+        "para": "25015-180"
+      }
+    ]
+  },
+  {
+    "id": "rec_80",
+    "nome": "USF Parada Angélica",
+    "changes": [
+      {
+        "field": "cep",
+        "de": "25272-310",
+        "para": "25272-560"
+      }
+    ]
+  },
+  {
+    "id": "rec_81",
+    "nome": "USF Parada Morabi",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Av. Anhanga, s/nº - Parada Morabi - 3º Distrito - CEP: 25265-190",
+        "para": "Avenida Anhanga, s/nº - Parada Morabi"
+      },
+      {
+        "field": "cep",
+        "de": "25265-190",
+        "para": "25265-000"
+      }
+    ]
+  },
+  {
+    "id": "rec_74",
+    "nome": "USF Parque Comercial",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua João Raimundo, Lt 72 Qd 66 Pantanal - CEP:25040-004 - 2° Distrito",
+        "para": "Rua João Raimundo, Lt 72 Qd 66 - São Bento"
+      },
+      {
+        "field": "bairro",
+        "de": "Pantanal",
+        "para": "São Bento"
+      },
+      {
+        "field": "cep",
+        "de": "25040-004",
+        "para": "25045-000"
+      }
+    ]
+  },
+  {
+    "id": "rec_82",
+    "nome": "USF Parque Eldorado",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Vanísia, nº 01 – Parque Eldorado - 3º Distrito - CEP: 25070-260",
+        "para": "Rua Vanísia, nº 01 - Parque Eldorado"
+      },
+      {
+        "field": "cep",
+        "de": "25070-260",
+        "para": "25240-000"
+      }
+    ]
+  },
+  {
+    "id": "rec_69",
+    "nome": "USF Cidade dos Meninos",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Avenida Darcy Vargas, s/nº (Antiga Estrada da Camboaba, Km 17) - Cidade dos Meninos",
+        "para": "Rua Maria de Andrade, 01 - Jardim Vila Nova"
+      },
+      {
+        "field": "bairro",
+        "de": "Cidade dos Meninos",
+        "para": "Jardim Vila Nova"
+      },
+      {
+        "field": "cep",
+        "de": "25225-100",
+        "para": "25045-230"
+      }
+    ]
+  },
+  {
+    "id": "rec_60",
+    "nome": "USF Manoel Barcelos (USF Parque Felicidade)",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Albino Imparato, n° 675 – Parque Felicidade - 1º Distrito 25080-010",
+        "para": "Rua Albino Imparato, nº 675 - Parque Felicidade"
+      },
+      {
+        "field": "cep",
+        "de": "25080-010",
+        "para": "25080-120"
+      }
+    ]
+  },
+  {
+    "id": "rec_85",
+    "nome": "USF Parque Paulista",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua: Trinta e um de março, nº88 - Parque Paulista - 3º Distriro - 25261-000 (anexo a UPH Equitativa)",
+        "para": "Av. Automóvel Clube, s/n - Parque Paulista (UPH Equitativa)"
+      },
+      {
+        "field": "cep",
+        "de": "25261-000",
+        "para": "25250-000"
+      }
+    ]
+  },
+  {
+    "id": "rec_71",
+    "nome": "USF Pilar I e II",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Praça Wilma de Jesus – Pilar - 2º Distrito. CEP: 25235-030",
+        "para": "Praça Wilma de Jesus, s/nº - Pilar"
+      },
+      {
+        "field": "cep",
+        "de": "25235-030",
+        "para": "25233-000"
+      }
+    ]
+  },
+  {
+    "id": "rec_113",
+    "nome": "Clínica da Família José Olavo de Araújo (Antiga USF Pilar III IV V)",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua São Jorge nº 85 - Pilar, 2º Distrito. CEP.: 25.235-251",
+        "para": "Rua São Jorge, nº 96 - Pilar"
+      },
+      {
+        "field": "cep",
+        "de": "N/A",
+        "para": "25233-000"
+      },
+      {
+        "field": "descricao",
+        "de": "Equipamento público oficial da Prefeitura Municipal de Duque de Caxias vinculado ao setor de Saúde Básica (APS / USF / UBS).",
+        "para": "Expansão da cobertura de saúde da família na região do Pilar, integrando equipes III, IV e V para suporte preventivo amplo."
+      }
+    ]
+  },
+  {
+    "id": "rec_86",
+    "nome": "USF Santa Lúcia",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Av. Automóvel Clube, km 56 – Santa Lúcia – Ciep 330 Brizolão Municipalizado Maria do Glória Correia Lemos – 3º Distrito - CEP: 25075-090",
+        "para": "Avenida Automóvel Clube, km 56 – Santa Lúcia (CIEP 330 Maria da Glória Correia Lemos)"
+      },
+      {
+        "field": "cep",
+        "de": "25075-090",
+        "para": "25240-000"
+      }
+    ]
+  },
+  {
+    "id": "rec_88",
+    "nome": "USF Santa Rosa (USF Parque Leal)",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rodovia Washington Luiz, km 97 - 4º Distrito - CEP: 25070-260",
+        "para": "Rodovia Washington Luiz, km 97 - Parque Leal"
+      },
+      {
+        "field": "bairro",
+        "de": "Xerém",
+        "para": "Parque Leal"
+      },
+      {
+        "field": "cep",
+        "de": "25070-260",
+        "para": "25250-000"
+      }
+    ]
+  },
+  {
+    "id": "rec_89",
+    "nome": "UBS Enir Angela Biciati Moreira (UBS Santo Antônio - É USF)",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Antônio Guedes, S/N° – Santo Antônio da Serra – Xerém - 4º Distrito - CEP: 25253-550",
+        "para": "Rua Antonio Guedes, s/n - Santo Antônio da Serra"
+      },
+      {
+        "field": "bairro",
+        "de": "Santo Antônio",
+        "para": "Santo Antônio da Serra"
+      },
+      {
+        "field": "cep",
+        "de": "25253-550",
+        "para": "25250-000"
+      },
+      {
+        "field": "descricao",
+        "de": "Equipamento público oficial da Prefeitura Municipal de Duque de Caxias vinculado ao setor de Saúde Básica (APS / USF / UBS).",
+        "para": "Unidade essencial para a promoção da saúde e acompanhamento integral das famílias do bairro de Santo Antônio da Serra."
+      }
+    ]
+  },
+  {
+    "id": "rec_72",
+    "nome": "USF São Bento",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua União, Lt 01 - Qd 10 – São Bento - 2º Distrito.CEP: 25045-027",
+        "para": "Avenida União, Lt 01 Qd 10 - São Bento"
+      },
+      {
+        "field": "cep",
+        "de": "25045-027",
+        "para": "25045-000"
+      }
+    ]
+  },
+  {
+    "id": "rec_111",
+    "nome": "Clínica da Família Taquara",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Estrada Cachoeira das Dores, s/n° - Taquara - 3º Distrito - 25270-040",
+        "para": "Estrada Cachoeira das Dores, s/nº - Taquara"
+      },
+      {
+        "field": "cep",
+        "de": "25270-040",
+        "para": "25250-000"
+      },
+      {
+        "field": "descricao",
+        "de": "Equipamento público oficial da Prefeitura Municipal de Duque de Caxias vinculado ao setor de Saúde Básica (APS / USF / UBS).",
+        "para": "Assistência à saúde e preventivos em localidade de fácil acesso no bairro rural da Taquara."
+      }
+    ]
+  },
+  {
+    "id": "rec_68",
+    "nome": "USF Trevo das Missões",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua quatro s/ n – Trevo das Missões - 25086-480 - 1º Distrito",
+        "para": "Rua Quatro, s/nº - Trevo das Missões"
+      },
+      {
+        "field": "cep",
+        "de": "25086-480",
+        "para": "25055-000"
+      }
+    ]
+  },
+  {
+    "id": "rec_75",
+    "nome": "USF Vila Urussaí",
+    "changes": [
+      {
+        "field": "endereco",
+        "de": "Rua Presidente Roosevelt, s/n° - Saracuruna - CIEP 318 – Paulo Mendes Campos - 2º Distrito CEP: 25211-120",
+        "para": "Avenida Presidente Roosevelt, s/nº - Saracuruna"
+      },
+      {
+        "field": "cep",
+        "de": "25211-120",
+        "para": "25212-390"
+      }
+    ]
+  }
+]

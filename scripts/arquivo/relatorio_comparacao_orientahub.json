@@ -1,0 +1,1374 @@
+{
+  "summary": {
+    "totalOrienta": 159,
+    "totalOur": 426,
+    "matched": 142,
+    "notInOurCount": 17
+  },
+  "notInOur": [
+    {
+      "id": "abrigo-primeiro-olhar",
+      "name": "Abrigo Primeiro Olhar",
+      "acronym": "Abrigo",
+      "type": "assistencia-social",
+      "address": "Av. Perimetral Tarce Menezes Freitas Lima, 19",
+      "zip_code": "25215-000",
+      "neighborhood": "Jardim Primavera",
+      "city": "Duque de Caxias - RJ",
+      "phone": "Não informado",
+      "email": "",
+      "hours": "Atendimento 24h",
+      "description": "Unidade de alta complexidade do SUAS para acolhimento protetivo e temporário de bebês e crianças sob medida judicial de proteção.",
+      "color": "#10b981",
+      "icon": "Home"
+    },
+    {
+      "id": "casa-comunitaria",
+      "name": "Casa Comunitária",
+      "acronym": "Casa Comun.",
+      "type": "assistencia-social",
+      "address": "Rua Conde de Porto Alegre, 599 – 25 de Agosto",
+      "zip_code": "25070-350",
+      "neighborhood": "25 de Agosto",
+      "city": "Duque de Caxias - RJ",
+      "phone": "(21) 2783-1306",
+      "email": "",
+      "hours": "Segunda a sexta-feira, das 8h às 17h",
+      "description": "Espaço integrador comunitário focado in articular grupos sociais e cidadania no bairro 25 de Agosto.",
+      "color": "#10b981",
+      "icon": "Home"
+    },
+    {
+      "id": "casa-de-passagem",
+      "name": "Casa de Passagem",
+      "acronym": "Casa Passagem",
+      "type": "assistencia-social",
+      "address": "Rua Manoel Vieira, S/N – Centenário",
+      "zip_code": "25030-100",
+      "neighborhood": "Centenário",
+      "city": "Duque de Caxias - RJ",
+      "phone": "(21) 2771-8021",
+      "email": "",
+      "hours": "Atendimento 24h",
+      "description": "Unidade protetiva de acolhimento emergencial temporário para pessoas em trânsito e vulnerabilidade extrema em Duque de Caxias.",
+      "color": "#10b981",
+      "icon": "Home"
+    },
+    {
+      "id": "casa-social-renascer",
+      "name": "Casa Social Renascer",
+      "acronym": "Casa Renascer",
+      "type": "assistencia-social",
+      "address": "Rua Cel. João Teles, 43 – Centro",
+      "zip_code": "25010-170",
+      "neighborhood": "Centro",
+      "city": "Duque de Caxias - RJ",
+      "phone": "Não informado",
+      "email": "",
+      "hours": "Segunda a sexta-feira, das 8h às 17h",
+      "description": "Atuação na rede de proteção de alta complexidade para inserção cidadã de pessoas sob vulnerabilidade severa.",
+      "color": "#10b981",
+      "icon": "Home"
+    },
+    {
+      "id": "casa-social-reviver",
+      "name": "Casa Social Reviver",
+      "acronym": "Casa Reviver",
+      "type": "assistencia-social",
+      "address": "Rua Manoel Teles, 700 – Centro",
+      "zip_code": "25010-090",
+      "neighborhood": "Centro",
+      "city": "Duque de Caxias - RJ",
+      "phone": "(21) 2671-8055",
+      "email": "",
+      "hours": "Segunda a sexta-feira, das 8h às 17h",
+      "description": "Acolhimento e suporte psicossocial focado na reabilitação e reinserção social de cidadãos em extrema vulnerabilidade.",
+      "color": "#10b981",
+      "icon": "Home"
+    },
+    {
+      "id": "centro-pop-figueira",
+      "name": "Centro POP",
+      "acronym": "Centro POP",
+      "type": "assistencia-social",
+      "address": "Estrada Velha do Pilar, S/N – Figueira",
+      "zip_code": "25230-000",
+      "neighborhood": "Figueira",
+      "city": "Duque de Caxias - RJ",
+      "phone": "(21) 2771-0976",
+      "email": "",
+      "hours": "Segunda a sexta-feira, das 8h às 17h",
+      "description": "Centro especializado no acolhimento diurno, alimentação, higiene e encaminhamentos para reinserção de pessoas em situação de rua.",
+      "color": "#5b21b6",
+      "icon": "Shield"
+    },
+    {
+      "id": "ceo-centro",
+      "name": "CEO Centro",
+      "acronym": "CEO Centro",
+      "type": "unidade-saude",
+      "address": "Rua Gen. Gurjão, s/n – Centro",
+      "zip_code": "25011-090",
+      "neighborhood": "Centro",
+      "city": "Duque de Caxias - RJ",
+      "phone": "Não informado",
+      "email": "",
+      "hours": "",
+      "description": "Principal polo de reabilitação bucal e especialidades odontológicas do centro de Duque de Caxias.",
+      "color": "#0ea5e9",
+      "icon": "HeartPulse"
+    },
+    {
+      "id": "cmdca-caxias",
+      "name": "CMDCA",
+      "acronym": "CMDCA",
+      "type": "assistencia-social",
+      "address": "Rua Manoel Vieira, S/N – Centenário",
+      "zip_code": "25030-100",
+      "neighborhood": "Centenário",
+      "city": "Duque de Caxias - RJ",
+      "phone": "(21) 3652-5461",
+      "email": "",
+      "hours": "Segunda a sexta-feira, das 9h às 17h",
+      "description": "Conselho deliberativo e formulador das políticas públicas de promoção, defesa e garantia dos direitos de crianças e adolescentes no município.",
+      "color": "#0ea5e9",
+      "icon": "Building2"
+    },
+    {
+      "id": "conselho-idoso-caxias",
+      "name": "Conselho do Idoso",
+      "acronym": "Cons. Idoso",
+      "type": "assistencia-social",
+      "address": "Rua Manoel Vieira, S/N – Centenário",
+      "zip_code": "25030-100",
+      "neighborhood": "Centenário",
+      "city": "Duque de Caxias - RJ",
+      "phone": "Não informado",
+      "email": "",
+      "hours": "Segunda a sexta-feira, das 9h às 17h",
+      "description": "Conselho deliberativo e fiscalizador voltado a garantir o cumprimento pleno das diretrizes do Estatuto do Idoso em Duque de Caxias.",
+      "color": "#10b981",
+      "icon": "Building2"
+    },
+    {
+      "id": "conselho-mulher-caxias",
+      "name": "Conselho da Mulher",
+      "acronym": "Cons. Mulher",
+      "type": "assistencia-social",
+      "address": "Rua Manoel Vieira, S/N – Centenário",
+      "zip_code": "25030-100",
+      "neighborhood": "Centenário",
+      "city": "Duque de Caxias - RJ",
+      "phone": "Não informado",
+      "email": "",
+      "hours": "Segunda a sexta-feira, das 9h às 17h",
+      "description": "Conselho municipal de direitos para propor, deliberar e fiscalizar políticas voltadas ao combate à violência de gênero e empoderamento feminino.",
+      "color": "#db2777",
+      "icon": "Building2"
+    },
+    {
+      "id": "dedaf-centro",
+      "name": "DEDAF",
+      "acronym": "DEDAF",
+      "type": "assistencia-social",
+      "address": "Rua Frei Fidélis, 709 – Centro",
+      "zip_code": "25010-150",
+      "neighborhood": "Centro",
+      "city": "Duque de Caxias - RJ",
+      "phone": "Não informado",
+      "email": "",
+      "hours": "Segunda a sexta-feira, das 9h às 17h",
+      "description": "Departamento de Defesa dos Direitos da Mulher, Criança e Adolescente (DEDAF), focado na proteção jurídica e orientação social no Centro.",
+      "color": "#1e3a8a",
+      "icon": "Shield"
+    },
+    {
+      "id": "detran-imbarie",
+      "name": "DETRAN Imbariê",
+      "acronym": "DETRAN",
+      "type": "assistencia-social",
+      "address": "Rua Ipameri, S/N",
+      "zip_code": "25265-000",
+      "neighborhood": "Imbariê",
+      "city": "Duque de Caxias - RJ",
+      "phone": "Não informado",
+      "email": "",
+      "hours": "Segunda a sexta-feira, das 8h às 17h",
+      "description": "Posto avançado de atendimento do DETRAN RJ em Imbariê para serviços de identificação civil descentralizados.",
+      "color": "#64748b",
+      "icon": "Landmark"
+    },
+    {
+      "id": "detran-saracuruna",
+      "name": "DETRAN Saracuruna",
+      "acronym": "DETRAN",
+      "type": "assistencia-social",
+      "address": "Rua Nascimento e Silva, 4, Lt 15",
+      "zip_code": "25212-320",
+      "neighborhood": "Saracuruna",
+      "city": "Duque de Caxias - RJ",
+      "phone": "Não informado",
+      "email": "",
+      "hours": "Segunda a sexta-feira, das 8h às 17h",
+      "description": "Posto de atendimento descentralizado do DETRAN RJ em Saracuruna para atendimento e suporte à cidadania local.",
+      "color": "#64748b",
+      "icon": "Landmark"
+    },
+    {
+      "id": "equinovida-caxias",
+      "name": "Equinovida",
+      "acronym": "Equinovida",
+      "type": "assistencia-social",
+      "address": "Rua Maurício Santos Silva, 2846",
+      "zip_code": "25215-170",
+      "neighborhood": "Jardim Primavera",
+      "city": "Duque de Caxias - RJ",
+      "phone": "(21) 3653-6731",
+      "email": "",
+      "hours": "Segunda a sexta-feira, das 8h às 17h",
+      "description": "Espaço voltado à equoterapia e processos de reabilitação motora e psicossocial para pessoas com deficiência ou TEA.",
+      "color": "#10b981",
+      "icon": "Heart"
+    },
+    {
+      "id": "getsemani-capivari",
+      "name": "Getsêmani",
+      "acronym": "Getsêmani",
+      "type": "assistencia-social",
+      "address": "Rua Marquês de Barcena, 88 – Capivari",
+      "zip_code": "25243-150",
+      "neighborhood": "Capivari",
+      "city": "Duque de Caxias - RJ",
+      "phone": "(21) 2773-9777",
+      "email": "",
+      "hours": "Segunda a sexta-feira, das 8h às 17h",
+      "description": "Unidade integrada à rede protetiva e de suporte social no bairro de Capivari.",
+      "color": "#10b981",
+      "icon": "Home"
+    },
+    {
+      "id": "lgbt-demppird-centro",
+      "name": "LGBT / DEMPPIRD",
+      "acronym": "DEMPPIRD",
+      "type": "assistencia-social",
+      "address": "Rua Frei Fidélis, 709 – Centro",
+      "zip_code": "25010-150",
+      "neighborhood": "Centro",
+      "city": "Duque de Caxias - RJ",
+      "phone": "Não informado",
+      "email": "",
+      "hours": "Segunda a sexta-feira, das 9h às 17h",
+      "description": "Coordenadoria LGBT e Departamento de Políticas Públicas para Igualdade Racial e Defesa de Direitos contra intolerância racista, de gênero ou LGBTfóbica.",
+      "color": "#db2777",
+      "icon": "Heart"
+    },
+    {
+      "id": "ubs-centro",
+      "name": "UBS Centro",
+      "acronym": "UBS",
+      "type": "unidade-saude",
+      "address": "Rua Conde de Porto Alegre, 123",
+      "zip_code": "25070-000",
+      "neighborhood": "Centro",
+      "city": "Duque de Caxias - RJ",
+      "phone": "",
+      "email": "",
+      "hours": "08:00 às 17:00",
+      "description": "Unidade Básica de Saúde.",
+      "color": "#10b981",
+      "icon": "HeartPulse"
+    }
+  ],
+  "diffs": [
+    {
+      "name": "SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL E DIREITOS HUMANOS (SEASDIH)",
+      "orientaName": "Secretaria Municipal de Assistência Social e Direitos Humanos",
+      "changes": [
+        "Telefone: Orienta='(21) 2672-6682' vs Nosso='(21) 2672-6659 / (21) 2672-6650'"
+      ],
+      "hours": "Segunda a Sexta, 08:00 às 17:00",
+      "description": "A Secretaria Municipal de Assistência Social e Direitos Humanos é responsável..."
+    },
+    {
+      "name": "Centro de Atenção Psicossocial para Usuários de Álcool e Outras Drogas Renato Russo – CAPS AD",
+      "orientaName": "CAPS AD Renato Russo",
+      "changes": [
+        "CEP: Orienta='25011-000' vs Nosso='25020-000'"
+      ],
+      "description": "Centro de Atenção Psicossocial Álcool e Drogas, especializado no acolhimento e reinserção social de usuários de álcool e outras substâncias."
+    },
+    {
+      "name": "Centro de Atenção Psicossocial para Usuários de Álcool e Outras Drogas - CAPS AD XERÉM",
+      "orientaName": "CAPS AD Xerém",
+      "changes": [
+        "CEP: Orienta='25250-000' vs Nosso='25272-560'"
+      ],
+      "description": "Dispositivo da Rede de Atenção Psicossocial para o cuidado humanizado de dependentes de substâncias psicoativas na região de Xerém."
+    },
+    {
+      "name": "Centro de Atenção Psicossocial – CAPS Imbariê",
+      "orientaName": "CAPS Imbariê",
+      "changes": [
+        "CEP: Orienta='25265-000' vs Nosso='25000-000'"
+      ],
+      "description": "Apoio e acolhimento em saúde mental para a população de Imbariê e bairros vizinhos, reduzindo internações e promovendo autonomia."
+    },
+    {
+      "name": "Centro de Atenção Psicossocial – CAPS LESLIE SANFORD CHAVIN",
+      "orientaName": "CAPS Leslie Sanford Chavin",
+      "changes": [
+        "CEP: Orienta='25071-080' vs Nosso='25000-000'"
+      ],
+      "description": "Centro de Atenção Psicossocial voltado ao acolhimento e tratamento especializado de pessoas com transtornos mentais graves e persistentes."
+    },
+    {
+      "name": "Centro de Atenção Psicossocial Infanto-Juvenil – CAPSIJ",
+      "orientaName": "CAPS Infanto-Juvenil (CAPSIJ)",
+      "changes": [
+        "CEP: Orienta='25075-025' vs Nosso='25000-000'"
+      ],
+      "description": "Atenção especializada em saúde mental voltada para crianças e adolescentes com transtornos psicológicos de moderados a severos."
+    },
+    {
+      "name": "Casa da Mulher Caxiense",
+      "orientaName": "Casa da Mulher Caxiense Ruth Cardoso",
+      "changes": [
+        "Telefone: Orienta='(21) 2773-1896' vs Nosso='(21) 2773-6300'",
+        "CEP: Orienta='25215-220' vs Nosso='25215-260'"
+      ],
+      "hours": "Segunda a sexta-feira, das 9h às 17h",
+      "description": "Instituição municipal que desenvolve o empoderamento feminino e acolhimento socioassistencial, fornecendo oficinas e apoio terapêutico."
+    },
+    {
+      "name": "Centro de Convivência do Idoso",
+      "orientaName": "Centro de Convivência do Idoso (CCI)",
+      "changes": [
+        "Telefone: Orienta='(21) 3653-3597' vs Nosso='(21) 2673-4422'",
+        "CEP: Orienta='25030-100' vs Nosso='25030-000'"
+      ],
+      "hours": "Segunda a sexta-feira, das 8h às 17h",
+      "description": "Unidade de convivência ativa para idosos, desenvolvendo socialização, oficinas de artesanato, atividade física e lazer no Centenário."
+    },
+    {
+      "name": "Casa da Mulher Caxiense",
+      "orientaName": "CEAM Idacilde",
+      "changes": [
+        "CEP: Orienta='25215-220' vs Nosso='25215-260'"
+      ],
+      "hours": "Segunda a sexta-feira, das 9h às 17h",
+      "description": "Centro especializado no atendimento e acolhimento de mulheres em situação de vulnerabilidade e violência de gênero na região de Jardim Primavera."
+    },
+    {
+      "name": "CEAM Vera Lúcia",
+      "orientaName": "CEAM Vera Lúcia",
+      "changes": [
+        "CEP: Orienta='25071-110' vs Nosso='25071-202'"
+      ],
+      "hours": "Segunda a sexta-feira, das 9h às 17h",
+      "description": "Centro especializado de atendimento social, psicológico e jurídico para mulheres em situação de violência doméstica e familiar de gênero."
+    },
+    {
+      "name": "Centro de Atenção Psicossocial para Usuários de Álcool e Outras Drogas Renato Russo – CAPS AD",
+      "orientaName": "CEAPD (CER II) - Centro de Atenção ao Portador de Deficiências",
+      "changes": [
+        "Telefone: Orienta='(21) 3774-4020' vs Nosso='(21) 2673-6144 / (21) 986675624'",
+        "CEP: Orienta='25011-000' vs Nosso='25020-000'"
+      ],
+      "description": "Centro Especializado em Reabilitação Física e Intelectual, fornecendo tratamento com equipe multiprofissional especializada."
+    },
+    {
+      "name": "Centro de Atenção Total ao Adolescente – CEATA",
+      "orientaName": "CEATA - Centro de Atenção Total ao Adolescente",
+      "changes": [
+        "Telefone: Orienta='(21) 2772-7308 / 2652-2986' vs Nosso='(21) 2772-7308 / (21) 2652-2986'",
+        "CEP: Orienta='25025-240' vs Nosso='25000-000'"
+      ],
+      "description": "Unidade ambulatorial voltada ao acolhimento e cuidado integral à saúde e bem-estar dos adolescentes do município."
+    },
+    {
+      "name": "Centro de Referência do Homem",
+      "orientaName": "Centro de Referência do Homem",
+      "changes": [
+        "CEP: Orienta='25215-080' vs Nosso='25215-260'"
+      ],
+      "hours": "Segunda a sexta-feira, das 8h às 17h",
+      "description": "Espaço voltado ao acompanhamento psicológico, social e de cidadania do homem, incluindo grupos reflexivos e saúde preventiva."
+    },
+    {
+      "name": "UPH Imbariê",
+      "orientaName": "CEO Imbariê",
+      "changes": [
+        "Telefone: Orienta='(21) 3661-4271' vs Nosso='(21) 2678-0014'",
+        "CEP: Orienta='25265-200' vs Nosso='25000-000'"
+      ],
+      "description": "Centro de Especialidades Odontológicas, oferecendo tratamentos bucais complexos que vão além do atendimento primário dos postos de saúde."
+    },
+    {
+      "name": "Centro de Especialidade Odontológica (CEO PRAINHA)",
+      "orientaName": "CEO Prainha",
+      "changes": [
+        "CEP: Orienta='25015-180' vs Nosso='25000-000'"
+      ],
+      "description": "Estrutura odontológica especializada para atendimento e tratamento bucal secundário de média complexidade."
+    },
+    {
+      "name": "Posto Odontológico Professor José de Souza Herdy",
+      "orientaName": "Posto Odontológico Professor José de Souza Herdy",
+      "changes": [
+        "CEP: Orienta='25080-120' vs Nosso='25000-000'"
+      ],
+      "description": "Unidade ambulatorial odontológica tradicional dedicada ao atendimento primário e especialidades bucais na região do Parque Felicidade."
+    },
+    {
+      "name": "Centro de Fisioterapia Pastor Norival Franco (Xerém)",
+      "orientaName": "CEO Xerém",
+      "changes": [
+        "CEP: Orienta='25250-000' vs Nosso='25272-560'"
+      ],
+      "description": "Unidade especializada em saúde bucal de Xerém, com profissionais voltados para tratamentos odontológicos avançados e especializados."
+    },
+    {
+      "name": "Centro Especialização em Reabilitação – CER IV",
+      "orientaName": "Centro de Especialização em Reabilitação – CER IV",
+      "changes": [
+        "CEP: Orienta='25050-100' vs Nosso='25000-000'"
+      ],
+      "description": "Unidade de alta tecnologia voltada à reabilitação física, intelectual, auditiva e visual, com equipamentos modernos e especialistas de alto nível."
+    },
+    {
+      "name": "SECRETARIA MUNICIPAL DE ATENÇÃO À PESSOA COM DEFICIÊNCIA",
+      "orientaName": "CMPD (Conselho Municipal de Defesa dos Direitos da Pessoa com Deficiência)",
+      "changes": [
+        "CEP: Orienta='25030-100' vs Nosso='25.015-440'"
+      ],
+      "hours": "Segunda a sexta-feira, das 9h às 17h",
+      "description": "Conselho municipal focado na articulação, defesa e fiscalização de políticas públicas de acessibilidade e inserção social da pessoa com deficiência."
+    },
+    {
+      "name": "SECRETARIA MUNICIPAL DE SAÚDE (SMS)",
+      "orientaName": "Centro Municipal de Saúde de Duque de Caxias",
+      "changes": [
+        "Telefone: Orienta='(21) 2671-7659 / 2771-4682' vs Nosso='(21) 2773-6309 / (21) 2773-6315'",
+        "CEP: Orienta='25011-090' vs Nosso='25.215-260'"
+      ],
+      "description": "Um dos principais centros de especialidades médicas do município, oferecendo consultas com médicos especialistas, exames diagnósticos e programas de saúde pública."
+    },
+    {
+      "name": "SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL E DIREITOS HUMANOS (SEASDIH)",
+      "orientaName": "Complexo de Assistência Social",
+      "changes": [
+        "Telefone: Orienta='(21) 3673-3260' vs Nosso='(21) 2672-6659 / (21) 2672-6650'",
+        "CEP: Orienta='25030-100' vs Nosso='25.071-182'"
+      ],
+      "hours": "Segunda a sexta-feira, das 8h às 17h",
+      "description": "Polo integrado que reúne diversos serviços socioassistenciais do município para garantir atendimento centralizado e resolutivo no Centenário."
+    },
+    {
+      "name": "Conselho Tutelar 1º Distrito",
+      "orientaName": "I Conselho Tutelar (Sede Centenário)",
+      "changes": [
+        "Telefone: Orienta='(21) 2671-8966' vs Nosso='(21) 2671-1122'",
+        "CEP: Orienta='25030-100' vs Nosso='25071-190'"
+      ],
+      "hours": "Segunda a sexta-feira, das 8h às 17h (Plantão 24h)",
+      "description": "Órgão protetivo autônomo encarregado de zelar pelos direitos de crianças e adolescentes da 1ª Região Administrativa de Duque de Caxias."
+    },
+    {
+      "name": "FUNDEC Unidade Jardim Primavera",
+      "orientaName": "II Conselho Tutelar (Sede Jardim Primavera)",
+      "changes": [
+        "Telefone: Orienta='(21) 3654-0205' vs Nosso='(21) 2773-5500'",
+        "CEP: Orienta='25215-220' vs Nosso='25215-260'"
+      ],
+      "hours": "Segunda a sexta-feira, das 8h às 17h (Plantão 24h)",
+      "description": "Órgão de defesa infanto-juvenil encarregado de assegurar o cumprimento do ECA na região do 2º Distrito de Duque de Caxias."
+    },
+    {
+      "name": "UPH Parque Equitativa",
+      "orientaName": "III Conselho Tutelar (Sede Parque Equitativa)",
+      "changes": [
+        "Telefone: Orienta='(21) 2672-4827' vs Nosso='(21) 2679-2040'",
+        "CEP: Orienta='25261-000' vs Nosso='25000-000'"
+      ],
+      "hours": "Segunda a sexta-feira, das 8h às 17h (Plantão 24h)",
+      "description": "Órgão de defesa de direitos da infância e juventude na área correspondente ao 3º Distrito (Imbariê/Santa Cruz da Serra)."
+    },
+    {
+      "name": "Conselho Tutelar 1º Distrito",
+      "orientaName": "IV Conselho Tutelar (Sede Xerém)",
+      "changes": [
+        "Telefone: Orienta='(21) 3777-1024' vs Nosso='(21) 2671-1122'",
+        "CEP: Orienta='25250-000' vs Nosso='25071-190'"
+      ],
+      "hours": "Segunda a sexta-feira, das 8h às 17h (Plantão 24h)",
+      "description": "Zela e defende a garantia de direitos de crianças e adolescentes no 4º Distrito (Xerém e sub-regiões)."
+    },
+    {
+      "name": "Conselho Tutelar 1º Distrito",
+      "orientaName": "V Conselho Tutelar (Sede Itatiaia)",
+      "changes": [
+        "Telefone: Orienta='(21) 2652-4993' vs Nosso='(21) 2671-1122'",
+        "CEP: Orienta='25075-010' vs Nosso='25071-190'"
+      ],
+      "hours": "Segunda a sexta-feira, das 8h às 17h (Plantão 24h)",
+      "description": "Unidade protetiva do conselho tutelar encarregada de resguardar o ECA no bairro Itatiaia e arredores."
+    },
+    {
+      "name": "Conselho Tutelar 1º Distrito",
+      "orientaName": "VI Conselho Tutelar (Sede São Bento)",
+      "changes": [
+        "Telefone: Orienta='(21) 3134-2044' vs Nosso='(21) 2671-1122'",
+        "CEP: Orienta='25050-009' vs Nosso='25071-190'"
+      ],
+      "hours": "Segunda a sexta-feira, das 8h às 17h (Plantão 24h)",
+      "description": "Garante o cumprimento dos direitos do menor e atende demandas sob regência do ECA na região do São Bento."
+    },
+    {
+      "name": "Centro de Referência e Atenção Especializada à Saúde da Mulher (CRAESM)",
+      "orientaName": "Centro de Referência e Atenção Especializada à Saúde da Mulher",
+      "changes": [
+        "CEP: Orienta='25250-000' vs Nosso='25272-560'"
+      ],
+      "description": "Unidade de saúde especializada na atenção integral à saúde da mulher, oferecendo consultas, exames preventivos, mamografias e acompanhamento ginecológico e obstétrico especializado."
+    },
+    {
+      "name": "CRAS Beira Mar",
+      "orientaName": "CRAS Beira Mar",
+      "changes": [
+        "Telefone: Orienta='(21) 2671-1595' vs Nosso='(21) 2772-8811'",
+        "CEP: Orienta='25085-060' vs Nosso='25085-000'"
+      ],
+      "hours": "Segunda a sexta-feira, das 8h às 17h",
+      "description": "Unidade pública descentralizada da proteção social básica do SUAS, responsável pela prevenção de vulnerabilidades e pelo fortalecimento de vínculos familiares no bairro Beira Mar."
+    },
+    {
+      "name": "CRAS Centenário",
+      "orientaName": "CRAS Centenário",
+      "changes": [
+        "Telefone: Orienta='(21) 3774-2782' vs Nosso='(21) 2673-4422'",
+        "CEP: Orienta='25030-100' vs Nosso='25030-000'"
+      ],
+      "hours": "Segunda a sexta-feira, das 8h às 17h",
+      "description": "Garante a proteção social básica, CadÚnico e suporte preventivo continuado às famílias moradoras do bairro Centenário."
+    },
+    {
+      "name": "CRAS Figueira",
+      "orientaName": "CRAS Figueira",
+      "changes": [
+        "Telefone: Orienta='(21) 3654-0401' vs Nosso='(21) 2776-5544'"
+      ],
+      "hours": "Segunda a sexta-feira, das 8h às 17h",
+      "description": "Unidade de assistência básica para prevenção de riscos sociais e apoio às famílias no bairro da Figueira, por meio de acolhimento e inserção em programas sociais."
+    },
+    {
+      "name": "CRAS Gramacho",
+      "orientaName": "CRAS Gramacho",
+      "changes": [
+        "CEP: Orienta='25010-009' vs Nosso='25010-001'"
+      ],
+      "hours": "Segunda a sexta-feira, das 8h às 17h",
+      "description": "Desenvolve ações de proteção social básica voltadas ao acolhimento e à promoção social das famílias no Gramacho."
+    },
+    {
+      "name": "CRAS Imbariê",
+      "orientaName": "CRAS Imbariê",
+      "changes": [
+        "Telefone: Orienta='(21) 2787-0144' vs Nosso='(21) 2778-5544'",
+        "CEP: Orienta='25265-000' vs Nosso='25266-000'"
+      ],
+      "hours": "Segunda a sexta-feira, das 8h às 17h",
+      "description": "Oferece acolhimento inicial, orientação sobre benefícios federais/municipais e oficinas de fortalecimento familiar no bairro de Imbariê."
+    },
+    {
+      "name": "USF Jardim Gramacho I II III V",
+      "orientaName": "CRAS Jardim Gramacho",
+      "changes": [
+        "Telefone: Orienta='(21) 3659-2550' vs Nosso='(21) 2773-5500'",
+        "CEP: Orienta='25055-320' vs Nosso='25055-052'"
+      ],
+      "hours": "Segunda a sexta-feira, das 8h às 17h",
+      "description": "Atua ativamente prestando assistência social básica e CadÚnico para a população em risco social de Jardim Gramacho."
+    },
+    {
+      "name": "FUNDEC Unidade Jardim Primavera",
+      "orientaName": "CRAS Jardim Primavera",
+      "changes": [
+        "Telefone: Orienta='(21) 2773-8889' vs Nosso='(21) 2773-5500'",
+        "CEP: Orienta='25215-285' vs Nosso='25215-260'"
+      ],
+      "hours": "Segunda a sexta-feira, das 8h às 17h",
+      "description": "Presta atendimento socioassistencial continuado focado na proteção social básica em Jardim Primavera."
+    },
+    {
+      "name": "CRAS Maria José",
+      "orientaName": "CRAS Maria José Carrilho Moreira",
+      "changes": [
+        "CEP: Orienta='25010-180' vs Nosso='25020-000'"
+      ],
+      "hours": "Segunda a sexta-feira, das 8h às 17h",
+      "description": "Presta assistência básica e acolhimento para superação de vulnerabilidades sociais no bairro Engenho do Porto e arredores."
+    },
+    {
+      "name": "Hospital Infantil de Parada Angélica Padre Guilherme",
+      "orientaName": "CRAS Parada Angélica",
+      "changes": [
+        "CEP: Orienta='25272-400' vs Nosso='25272-560'"
+      ],
+      "hours": "Segunda a sexta-feira, das 8h às 17h",
+      "description": "Espaço de proteção social básica em Parada Angélica, prestando serviços essenciais do Cadastro Único e acompanhamento às famílias."
+    },
+    {
+      "name": "USF Parada Morabi",
+      "orientaName": "CRAS Parada Morabi",
+      "changes": [
+        "CEP: Orienta='25264-320' vs Nosso='25265-190'"
+      ],
+      "hours": "Segunda a sexta-feira, das 8h às 17h",
+      "description": "Atuação local descentralizada na região de Parada Morabi / Jardim Anhangá, com foco na superação de vulnerabilidade social e fortalecimento familiar."
+    },
+    {
+      "name": "CRAS Pilar",
+      "orientaName": "CRAS Pilar",
+      "changes": [
+        "Telefone: Orienta='(21) 2773-5976' vs Nosso='(21) 2776-3399'"
+      ],
+      "hours": "Segunda a sexta-feira, das 8h às 17h",
+      "description": "Unidade socioassistencial de proteção social básica do SUAS voltada ao acolhimento dos moradores do bairro Pilar."
+    },
+    {
+      "name": "Clinica da Família Maria Helena Monteiro (Centenário Novo)",
+      "orientaName": "CRAS Vila Maria Helena",
+      "changes": [
+        "Telefone: Orienta='(21) 2776-8440' vs Nosso='(21) 2773-5500'",
+        "CEP: Orienta='25245-290' vs Nosso='25020-137'"
+      ],
+      "hours": "Segunda a sexta-feira, das 8h às 17h",
+      "description": "Garante o acesso aos serviços socioassistenciais do SUAS, promovendo prevenção social para as famílias do bairro Maria Helena."
+    },
+    {
+      "name": "CRAS Xerém",
+      "orientaName": "CRAS Xerém",
+      "changes": [
+        "Telefone: Orienta='(21) 2679-1693' vs Nosso='(21) 3658-4411'",
+        "CEP: Orienta='25250-000' vs Nosso='25272-560'"
+      ],
+      "hours": "Segunda a sexta-feira, das 8h às 17h",
+      "description": "Polo descentralizado em Xerém para garantir assistência social básica, CadÚnico e suporte preventivo à comunidade local."
+    },
+    {
+      "name": "CREAS Centenário",
+      "orientaName": "CREAS Centenário",
+      "changes": [
+        "Telefone: Orienta='(21) 2771-2879' vs Nosso='(21) 2673-4455'",
+        "CEP: Orienta='25030-100' vs Nosso='25030-000'"
+      ],
+      "hours": "Segunda a sexta-feira, das 8h às 17h",
+      "description": "Unidade pública especializada de proteção social de média complexidade, voltada a famílias e indivíduos com direitos violados no Centenário."
+    },
+    {
+      "name": "CREAS Figueira",
+      "orientaName": "CREAS Figueira",
+      "changes": [
+        "Telefone: Orienta='(21) 2773-2342' vs Nosso='(21) 2776-8800'",
+        "CEP: Orienta='25230-000' vs Nosso='25233-000'"
+      ],
+      "hours": "Segunda a sexta-feira, das 8h às 17h",
+      "description": "Desenvolve ações de proteção especial voltadas a apoiar psicossocialmente pessoas e famílias que sofreram violência física, abuso ou negligência."
+    },
+    {
+      "name": "Clinica da Família Maria Helena Monteiro (Centenário Novo)",
+      "orientaName": "CREAS Vila Maria Helena",
+      "changes": [
+        "Telefone: Orienta='(21) 2676-1032' vs Nosso='(21) 2773-5500'",
+        "CEP: Orienta='25245-290' vs Nosso='25020-137'"
+      ],
+      "hours": "Segunda a sexta-feira, das 8h às 17h",
+      "description": "Unidade especializada da rede SUAS focada no suporte a indivíduos em situação de risco ou com direitos violados no bairro Vila Maria Helena."
+    },
+    {
+      "name": "SECRETARIA MUNICIPAL DE CULTURA E TURISMO (SMCT)",
+      "orientaName": "Secretaria Municipal de Cultura e Turismo",
+      "changes": [
+        "Telefone: Orienta='(21) 2771-8682' vs Nosso='(21) 99359-9377'",
+        "CEP: Orienta='25010-230' vs Nosso='25.071-210'"
+      ],
+      "hours": "Segunda a Sexta, 09:00 às 17:00",
+      "description": "A Secretaria Municipal de Cultura e Turismo tem a função..."
+    },
+    {
+      "name": "CRAS Xerém",
+      "orientaName": "DETRAN Xerém",
+      "changes": [
+        "CEP: Orienta='25250-000' vs Nosso='25272-560'"
+      ],
+      "hours": "Segunda a sexta-feira, das 8h às 17h",
+      "description": "Posto de identificação civil descentralizado do DETRAN RJ no 4º Distrito, facilitando o acesso ao registro de cidadania."
+    },
+    {
+      "name": "FUNDEC – FUNDAÇÃO DE APOIO À ESCOLA TÉCNICA, TECNOLOGIA, ESPORTE, LAZER, CULTURA E POLÍTICAS SOCIAIS DE DUQUE DE CAXIAS",
+      "orientaName": "Secretaria Municipal de Esporte e Lazer",
+      "changes": [
+        "Telefone: Orienta='(21) 2652-7428' vs Nosso='(21) 2773-5500'",
+        "CEP: Orienta='25075-080' vs Nosso='25.085-131'"
+      ],
+      "hours": "Segunda a Sexta, 08:00 às 17:00",
+      "description": "A Secretaria Municipal de Esporte e Lazer (SMEL) visa planejar..."
+    },
+    {
+      "name": "Fazenda Paraíso (Centro de Tratamento e Convivência)",
+      "orientaName": "Fazenda Paraíso",
+      "changes": [
+        "CEP: Orienta='25250-000' vs Nosso='25245-000'"
+      ],
+      "description": "Espaço terapêutico e comunidade para o acolhimento, desintoxicação e reinserção social de dependentes químicos graves em ambiente rural produtivo."
+    },
+    {
+      "name": "Centro de Fisioterapia Pastor Norival Franco (Xerém)",
+      "orientaName": "Centro de Fisioterapia Pastor Norival Franco (Xerém)",
+      "changes": [
+        "CEP: Orienta='25250-000' vs Nosso='25272-560'"
+      ],
+      "description": "Centro especializado no tratamento de reabilitação motora, fisioterapia ortopédica, neurológica e respiratória."
+    },
+    {
+      "name": "OUVIDORIA GERAL DO MUNICÍPIO (OGMDC)",
+      "orientaName": "Secretaria Municipal de Governo",
+      "changes": [
+        "CEP: Orienta='25225-210' vs Nosso='25.215-260'"
+      ],
+      "hours": "Segunda a Sexta, 08:00 às 17:00",
+      "description": "Coordena as atividades de governo..."
+    },
+    {
+      "name": "SECRETARIA MUNICIPAL DE PROTEÇÃO ANIMAL (SMPA)",
+      "orientaName": "Secretaria Municipal de Habitação",
+      "changes": [
+        "Telefone: Orienta='(21) 96557-7062' vs Nosso='(21) 2783-6066'"
+      ],
+      "hours": "Segunda a Sexta, 08:00 às 17:00",
+      "description": "A Secretaria Municipal de Habitação é responsável..."
+    },
+    {
+      "name": "Hospital Infantil Ismélia da Silveira",
+      "orientaName": "Hospital Infantil Ismélia da Silveira",
+      "changes": [
+        "CEP: Orienta='25010-009' vs Nosso='25020-000'"
+      ],
+      "description": "Hospital pediátrico municipal voltado ao atendimento de urgência, emergência e internação de crianças, prestando serviços essenciais 24 horas por dia."
+    },
+    {
+      "name": "Hospital Infantil Ismélia da Silveira",
+      "orientaName": "Hospital Infantil de Parada Angélica Padre Guilherme",
+      "changes": [
+        "CEP: Orienta='25272-560' vs Nosso='25020-000'"
+      ],
+      "description": "Unidade hospitalar infantil que atende as demandas de urgência e internação pediátrica da região de Parada Angélica e arredores."
+    },
+    {
+      "name": "Hospital Municipal Dr. Moacyr Rodrigues do Carmo",
+      "orientaName": "Hospital Municipal Dr. Moacyr Rodrigues do Carmo",
+      "changes": [
+        "CEP: Orienta='25085-009' vs Nosso='25010-000'"
+      ],
+      "description": "Maior hospital da rede municipal de Duque de Caxias, com atendimento de alta complexidade, emergência de trauma, cirurgias e terapia intensiva."
+    },
+    {
+      "name": "Hospital Municipal Dr. Moacyr Rodrigues do Carmo",
+      "orientaName": "Hospital Municipal Dr. Moacyr Rodrigues do Carmo",
+      "changes": [
+        "Telefone: Orienta='(21) 2773-0000' vs Nosso='(21) 2671-0671 / 2671-6285 / 2672-1090'",
+        "CEP: Orienta='25065-000' vs Nosso='25010-000'"
+      ],
+      "hours": "24 horas",
+      "description": "Hospital geral de urgência e emergência."
+    },
+    {
+      "name": "Hospital Municipal Veterinário",
+      "orientaName": "Hospital Veterinário Municipal",
+      "changes": [
+        "CEP: Orienta='25215-310' vs Nosso='25215-260'"
+      ],
+      "description": "Unidade especializada pioneira de Duque de Caxias para o tratamento médico de pequenos animais domésticos (cães e gatos), com foco na população de baixa renda."
+    },
+    {
+      "name": "IPMDC – INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES PÚBLICOS DO MUNICÍPIO DE DUQUE DE CAXIAS",
+      "orientaName": "Instituto de Previdência dos Servidores Públicos de Duque de Caxias ( IPMDC )",
+      "changes": [
+        "Telefone: Orienta='WhatsApp: (21) 3257-6000' vs Nosso='(21) 2773-5500'"
+      ],
+      "hours": "Segunda a sexta, das 8h às 17h",
+      "description": "O IPMDC é a autarquia responsável por gerir a previdência social dos servidores públicos municipais de Duque de Caxias, garantindo a concessão e manutenção dos benefícios de aposentadoria e pensão."
+    },
+    {
+      "name": "Maternidade Municipal Santa Cruz da Serra",
+      "orientaName": "Maternidade Municipal Santa Cruz da Serra",
+      "changes": [
+        "CEP: Orienta='25240-000' vs Nosso='25000-000'"
+      ],
+      "description": "Maternidade de ponta e unidade especializada em Obstetrícia, focada no atendimento a Gestantes de Risco Habitual e Baixo Risco."
+    },
+    {
+      "name": "SECRETARIA MUNICIPAL DE MEIO AMBIENTE (SMMA)",
+      "orientaName": "Secretaria Municipal de Meio Ambiente",
+      "changes": [
+        "CEP: Orienta='25215-265' vs Nosso='25.215-260'"
+      ],
+      "hours": "Segunda a Sexta, 08:00 às 17:00",
+      "description": "Cuida da gestão ambiental do município..."
+    },
+    {
+      "name": "SECRETARIA MUNICIPAL DE OBRAS E AGRICULTURA (SMOAG)",
+      "orientaName": "Secretaria Municipal de Obras e Agricultura",
+      "changes": [
+        "Telefone: Orienta='(21) 2773-6150' vs Nosso='(21) 2773-5500'"
+      ],
+      "hours": "Segunda a Sexta, 08:00 às 17:00",
+      "description": "Responsável pela execução e manutenção de obras públicas..."
+    },
+    {
+      "name": "OUVIDORIA GERAL DO MUNICÍPIO (OGMDC)",
+      "orientaName": "Procuradoria Geral do Município (PGM)",
+      "changes": [
+        "CEP: Orienta='25071-210' vs Nosso='25.215-260'"
+      ],
+      "hours": "Segunda a sexta-feira",
+      "description": "A Procuradoria Geral do Município (PGM) é o órgão gestor do Sistema Jurídico Municipal, responsável pela defesa judicial e extrajudicial do Município, pela consultoria jurídica dos órgãos municipais, bem como pela inscrição e cobrança da dívida ativa municipal, objetivando assegurar a prevalência do interesse público."
+    },
+    {
+      "name": "Policlínica Hospital Duque de Caxias",
+      "orientaName": "Policlínica Hospital Duque de Caxias",
+      "changes": [
+        "CEP: Orienta='25025-240' vs Nosso='25000-000'"
+      ],
+      "description": "Unidade ambulatorial e hospitalar voltada ao atendimento clínico, especialidades médicas diversas e pequenas cirurgias."
+    },
+    {
+      "name": "SECRETARIA MUNICIPAL DE PROTEÇÃO ANIMAL (SMPA)",
+      "orientaName": "Secretaria Municipal de Proteção Animal",
+      "changes": [
+        "Telefone: Orienta='21 99837-6831' vs Nosso='(21) 2783-6066'",
+        "CEP: Orienta='25050-100' vs Nosso='25.215-320'"
+      ],
+      "hours": "Segunda a sexta-feira, das 8h às 17h",
+      "description": "A Secretaria Municipal de Proteção Animal é responsável..."
+    },
+    {
+      "name": "SECRETARIA MUNICIPAL DE SEGURANÇA PÚBLICA (SMSP)",
+      "orientaName": "Secretaria Municipal de Segurança Pública",
+      "changes": [
+        "CEP: Orienta='25085015' vs Nosso='25.071-210'"
+      ],
+      "hours": "Segunda a Sexta, 08:00 às 17:00",
+      "description": "A Secretaria de Segurança Pública tem como missão..."
+    },
+    {
+      "name": "SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL E DIREITOS HUMANOS (SEASDIH)",
+      "orientaName": "Secretaria Municipal de Assistência Social e Direitos Humanos (Sede)",
+      "changes": [
+        "Telefone: Orienta='(21) 2672-6652' vs Nosso='(21) 2672-6659 / (21) 2672-6650'"
+      ],
+      "hours": "Segunda a sexta-feira, das 8h às 17h",
+      "description": "Sede administrativa da Secretaria Municipal de Assistência Social e Direitos Humanos (SMASDH) de Duque de Caxias, responsável pela coordenação e gestão de toda a rede de proteção social do município."
+    },
+    {
+      "name": "USF Jardim Anhangá",
+      "orientaName": "Serviço Residencial Terapêutico Jardim Anhangá",
+      "changes": [
+        "CEP: Orienta='25260-120' vs Nosso='25264-580'"
+      ],
+      "description": "Residência voltada para pessoas com sofrimento mental grave que passaram por longos períodos de internação psiquiátrica e necessitam de reinserção social."
+    },
+    {
+      "name": "FUNDEC Unidade Parque Lafaiete",
+      "orientaName": "Serviço Residencial Terapêutico Parque Lafaiete",
+      "changes": [
+        "CEP: Orienta='25015-300' vs Nosso='25020-000'"
+      ],
+      "description": "Espaço residencial terapêutico que acolhe e acompanha pacientes com transtornos psiquiátricos crônicos no retorno ao convívio comunitário."
+    },
+    {
+      "name": "SECRETARIA MUNICIPAL DE TRANSPORTES E SERVIÇOS PÚBLICOS (SMTSP)",
+      "orientaName": "Secretaria Municipal de Transportes",
+      "changes": [
+        "Telefone: Orienta='(21) 2671-7600' vs Nosso='(21) 2773-5500'"
+      ],
+      "hours": "Segunda a Sexta, 08:00 às 17:00",
+      "description": "Gerencia o sistema de transporte público municipal..."
+    },
+    {
+      "name": "UBS Abdul Nasser Haikal/ USF Parque Chuno (Mesmo local, equipes distintas)",
+      "orientaName": "UBS Abdul Nasser Haikal (USF Parque Chuno)",
+      "changes": [
+        "CEP: Orienta='25215-285' vs Nosso='25265-008'"
+      ],
+      "description": "Oferece suporte à saúde primária de forma acolhedora para os moradores do Parque Chuno e arredores de Jardim Primavera."
+    },
+    {
+      "name": "UBS Aparecida Tavares (Em transição para se tornar ESF - Comporta USF Vila São Luiz)",
+      "orientaName": "UBS Aparecida Tavares (USF Vila São Luiz)",
+      "changes": [
+        "CEP: Orienta='25065-010' vs Nosso='25065-142'"
+      ],
+      "description": "Presta serviços de atenção primária no bairro Vila São Luiz, promovendo a prevenção e o controle de doenças crônicas na comunidade."
+    },
+    {
+      "name": "UBS \"Bidi\" (UBS Senhor Benedito Nascimento - BIDI)",
+      "orientaName": "UBS Benedito Nascimento (BIDI)",
+      "changes": [
+        "CEP: Orienta='25233-000' vs Nosso='25225-750'"
+      ],
+      "description": "Conhecido localmente como Posto do BIDI, oferece cuidados preventivos e acolhimento em saúde de proximidade na região do Pilar."
+    },
+    {
+      "name": "UBS Cangulo (UBS Cangulo - Dr. Iveraldo Carvalho Pessôa)",
+      "orientaName": "UBS Cangulo",
+      "changes": [
+        "CEP: Orienta='25225-330' vs Nosso='25220-445'"
+      ],
+      "description": "Garante o acesso a consultas ambulatoriais e rotinas de prevenção essenciais à comunidade de Cangulo."
+    },
+    {
+      "name": "UBS Capivari",
+      "orientaName": "UBS Capivari",
+      "changes": [
+        "CEP: Orienta='25243-150' vs Nosso='25245-230'"
+      ],
+      "description": "Unidade de referência básica do Parque Capivari focado em garantir a cobertura completa e primária de saúde local."
+    },
+    {
+      "name": "USF Sérgio de Freitas Américo (UBS Covanca - É UBS)",
+      "orientaName": "UBS Covanca",
+      "changes": [
+        "CEP: Orienta='25015-010' vs Nosso='25025-500'"
+      ],
+      "description": "Unidade básica que atua diretamente nas necessidades assistenciais e preventivas dos moradores do Parque Lafaiete."
+    },
+    {
+      "name": "UBS Fátima de Oliveira Thomaz (UBS Jardim Leal)",
+      "orientaName": "UBS Fatima de Oliveira Thomaz",
+      "changes": [
+        "CEP: Orienta='25015-180' vs Nosso='25035-800'"
+      ],
+      "description": "Serviço de saúde preventivo de excelente acesso geográfico à população do bairro Olavo Bilac."
+    },
+    {
+      "name": "UBS Doutor José de Freitas",
+      "orientaName": "UBS Dr. José de Freitas",
+      "changes": [
+        "Telefone: Orienta='(21) 2650-1295' vs Nosso='(21) 2773-5500'",
+        "CEP: Orienta='25080-510' vs Nosso='25086-390'"
+      ],
+      "description": "Ponto básico de atendimento integral e médico para os residentes do Parque Felicidade e imediações."
+    },
+    {
+      "name": "Creche Municipal Maria Emília de Oliveira",
+      "orientaName": "UBS Maria Margareth de Oliveira Dias (Pantanal)",
+      "changes": [
+        "CEP: Orienta='25040-000' vs Nosso='25030170'"
+      ],
+      "description": "Apoio fundamental à saúde básica com acompanhamento médico e multiprofissional contínuo no bairro Pantanal."
+    },
+    {
+      "name": "UBS Nair Borges Fernandes (UBS Figueira - Em transição para se tornar ESF)",
+      "orientaName": "UBS Nair Borges (UBS Figueira)",
+      "changes": [
+        "CEP: Orienta='25230-000' vs Nosso='25231-340'"
+      ],
+      "description": "Unidade básica importante com atendimento local integrado e ponto estratégico de vacinação na Figueira."
+    },
+    {
+      "name": "UBS Nilza Maria Cardoso Rodrigues",
+      "orientaName": "UBS Nilza Maria Cardoso Rodrigues",
+      "changes": [
+        "CEP: Orienta='25015-400' vs Nosso='25015-210'"
+      ],
+      "description": "Atuação na Atenção Primária no Engenho do Porto com foco em ações de promoção da saúde e estilo de vida saudável."
+    },
+    {
+      "name": "UBS Rural",
+      "orientaName": "UBS Rural",
+      "changes": [
+        "CEP: Orienta='25250-000' vs Nosso='25245-750'"
+      ],
+      "description": "Unidade direcionada à população das zonas mais rurais e de difícil acesso na região de Xerém."
+    },
+    {
+      "name": "UPA SARAPUÍ",
+      "orientaName": "UBS Sarapuí (USF Sarapuí)",
+      "changes": [
+        "CEP: Orienta='25050-501' vs Nosso='25000-000'"
+      ],
+      "description": "Unidade básica focada na prevenção e cuidado ambulatorial essencial na região do Jardim Gramacho e arredores."
+    },
+    {
+      "name": "UBS José Carlos Gianes (USF Vila Canaã - É USF)",
+      "orientaName": "UBS Vila Canaã (UBS José Carlos Giane)",
+      "changes": [
+        "CEP: Orienta='25240-000' vs Nosso='25255-160'"
+      ],
+      "description": "Acolhimento preventivo de excelente estrutura voltado ao bem-estar e saúde do bairro Vila Canaã."
+    },
+    {
+      "name": "Hospital Municipal Dr. Moacyr Rodrigues do Carmo",
+      "orientaName": "UPA Parque Beira Mar",
+      "changes": [
+        "CEP: Orienta='25085-009' vs Nosso='25010-000'"
+      ],
+      "description": "Unidade de Pronto Atendimento 24h para emergências adultas, localizada estrategicamente ao lado do Hospital Dr. Moacyr Rodrigues do Carmo."
+    },
+    {
+      "name": "UPA LAFAIETE",
+      "orientaName": "UPA Lafaiete",
+      "changes": [
+        "CEP: Orienta='25015-300' vs Nosso='25000-000'"
+      ],
+      "description": "Atendimento médico de urgência e emergência 24 horas, prestando serviços resolutivos de saúde para a região do Parque Lafaiete."
+    },
+    {
+      "name": "UPA SARAPUÍ",
+      "orientaName": "UPA Sarapuí",
+      "changes": [
+        "CEP: Orienta='25050-100' vs Nosso='25000-000'"
+      ],
+      "description": "Unidade de pronto atendimento 24h para suporte a casos de urgência em clínica geral e primeiros socorros de média complexidade."
+    },
+    {
+      "name": "UPA Infantil Walter Garcia",
+      "orientaName": "UPA Infantil Walter Garcia",
+      "changes": [
+        "CEP: Orienta='25010-009' vs Nosso='25020-000'"
+      ],
+      "description": "Unidade de Pronto Atendimento Infantil 24h dedicada a urgências e emergências pediátricas com equipe médica especializada."
+    },
+    {
+      "name": "UPA Parque Beira Mar",
+      "orientaName": "UPA 24h Parque Beira Mar",
+      "changes": [
+        "CEP: Orienta='25071-180' vs Nosso='25010-000'"
+      ],
+      "hours": "24 horas",
+      "description": "Unidade de Pronto Atendimento."
+    },
+    {
+      "name": "UPH Campos Elíseos",
+      "orientaName": "UPH Campos Elíseos",
+      "changes": [
+        "CEP: Orienta='25225-020' vs Nosso='25000-000'"
+      ],
+      "description": "Unidade Pré-Hospitalar (UPH) 24h que alia atendimento de urgência a consultas médicas agendadas em diversas especialidades."
+    },
+    {
+      "name": "UPH Imbariê",
+      "orientaName": "UPH Imbariê",
+      "changes": [
+        "CEP: Orienta='25265-025' vs Nosso='25000-000'"
+      ],
+      "description": "Unidade Pré-Hospitalar focada na integração de serviços de emergência 24 horas e exames de apoio diagnóstico."
+    },
+    {
+      "name": "UPH Parque Equitativa",
+      "orientaName": "UPH Parque Equitativa",
+      "changes": [
+        "CEP: Orienta='25250-000' vs Nosso='25000-000'"
+      ],
+      "description": "Unidade Pré-Hospitalar oferecendo pronto atendimento 24h e ambulatório de especialidades para a população da região."
+    },
+    {
+      "name": "UPH Pilar",
+      "orientaName": "UPH Pilar",
+      "changes": [
+        "CEP: Orienta='25233-000' vs Nosso='25000-000'"
+      ],
+      "description": "Unidade de saúde integrada com pronto atendimento de urgência e acompanhamento preventivo básico e especializado."
+    },
+    {
+      "name": "UPH Saracuruna",
+      "orientaName": "UPH Saracuruna",
+      "changes": [
+        "CEP: Orienta='25212-390' vs Nosso='25000-000'"
+      ],
+      "description": "Unidade Pré-Hospitalar de referência para Saracuruna, com plantão de clínica geral e exames diagnósticos essenciais."
+    },
+    {
+      "name": "Centro de Fisioterapia Pastor Norival Franco (Xerém)",
+      "orientaName": "UPH Xerém",
+      "changes": [
+        "CEP: Orienta='25250-000' vs Nosso='25272-560'"
+      ],
+      "description": "Estrutura completa de atendimento pré-hospitalar com suporte de emergência 24h e programas de atenção primária em Xerém."
+    },
+    {
+      "name": "SECRETARIA MUNICIPAL DE PROTEÇÃO ANIMAL (SMPA)",
+      "orientaName": "Secretaria Municipal de Urbanismo",
+      "changes": [
+        "Telefone: Orienta='(21) 2672-6682' vs Nosso='(21) 2783-6066'"
+      ],
+      "hours": "Segunda a Sexta, 08:00 às 17:00",
+      "description": "A Secretaria de Urbanismo tem por finalidade..."
+    },
+    {
+      "name": "USF Enfermeira Alaíde Ramos Amasonas (Equipes II e III de Jardim Anhangá)",
+      "orientaName": "USF Enfermeira Alaíde Ramos Amasonas",
+      "changes": [
+        "CEP: Orienta='25260-120' vs Nosso='25264-015'"
+      ],
+      "description": "Unidade integrada ao CIEP 319 voltada ao acolhimento integral da saúde infanto-juvenil e de suas famílias no Jardim Anhangá."
+    },
+    {
+      "name": "Clínica da Família Barro Branco",
+      "orientaName": "USF Barro Branco",
+      "changes": [
+        "CEP: Orienta='25265-000' vs Nosso='25267-120'"
+      ],
+      "description": "Assistência básica integral com fomento à prevenção e educação em saúde no Jardim Barro Branco."
+    },
+    {
+      "name": "USF Sebastião de Souza Alves (USF Beira Mar ou CASF Beira Mar)",
+      "orientaName": "USF Sebastião de Souza Alves (USF Beira Mar)",
+      "changes": [
+        "CEP: Orienta='25085-060' vs Nosso='25085-420'"
+      ],
+      "description": "Apoio de Estratégia de Saúde da Família focado no acompanhamento domiciliar e na prevenção em saúde no Parque Beira Mar."
+    },
+    {
+      "name": "UBS Calundú",
+      "orientaName": "USF Calundú",
+      "changes": [
+        "CEP: Orienta='25045-000' vs Nosso='25040-610'"
+      ],
+      "description": "Garante atendimento médico ambulatorial de atenção primária no bairro de Nossa Senhora do Carmo (Calundú)."
+    },
+    {
+      "name": "USF Maria Dalva Pereira Gomes (USF Centenário)",
+      "orientaName": "USF Maria Dalva Pereira Gomes (USF Centenário)",
+      "changes": [
+        "CEP: Orienta='25010-090' vs Nosso='25030-160'"
+      ],
+      "description": "Acolhimento preventivo de excelente estrutura voltado ao bem-estar e saúde do bairro Centenário."
+    },
+    {
+      "name": "USF Cidade dos Meninos",
+      "orientaName": "USF Cidade dos Meninos",
+      "changes": [
+        "CEP: Orienta='25225-100' vs Nosso='25237-010'"
+      ],
+      "description": "Serviço de Estratégia de Saúde da Família na localidade de Cidade dos Meninos, promovendo assistência e acompanhamento social e de saúde."
+    },
+    {
+      "name": "USF Cristovão Colombo",
+      "orientaName": "USF Cristóvão Colombo",
+      "changes": [
+        "CEP: Orienta='25265-000' vs Nosso='25272-590'"
+      ],
+      "description": "Garante o acesso a consultas ambulatoriais e rotinas de prevenção essenciais no bairro Cristóvão Colombo."
+    },
+    {
+      "name": "USF Dois Irmãos",
+      "orientaName": "USF Dois Irmãos",
+      "changes": [
+        "CEP: Orienta='25085-000' vs Nosso='25085-305'"
+      ],
+      "description": "Unidade voltada à Estratégia de Saúde da Família, promovendo visitas domiciliares, prevenção e promoção da saúde."
+    },
+    {
+      "name": "USF Jardim Gramacho I II III V",
+      "orientaName": "USF Gramacho",
+      "changes": [
+        "CEP: Orienta='25050-000' vs Nosso='25055-052'"
+      ],
+      "description": "Presta serviços de atenção primária no bairro Vila Leopoldina, integrando exames e vacinação à rotina das famílias."
+    },
+    {
+      "name": "UPH Imbariê",
+      "orientaName": "USF Imbariê",
+      "changes": [
+        "CEP: Orienta='25265-000' vs Nosso='25000-000'"
+      ],
+      "description": "Posto de Saúde da Família integrado que auxilia os moradores locais de Imbariê com consultas preventivas."
+    },
+    {
+      "name": "USF Jardim Anhangá",
+      "orientaName": "USF Jardim Anhangá",
+      "changes": [
+        "CEP: Orienta='25260-120' vs Nosso='25264-580'"
+      ],
+      "description": "Prestação de assistência e acompanhamento familiar integral, focado na prevenção no bairro Jardim Anhangá."
+    },
+    {
+      "name": "USF Jardim Gramacho I II III V",
+      "orientaName": "USF Jardim Gramacho",
+      "changes": [
+        "CEP: Orienta='25055-120' vs Nosso='25055-052'"
+      ],
+      "description": "Atuação na atenção básica em Jardim Gramacho, com forte engajamento na prevenção de patologias e controle do desenvolvimento infantil."
+    },
+    {
+      "name": "USF Carlos Roberto Zagari Koeler (USF Jardim Leal)",
+      "orientaName": "USF Carlos Alberto Zagari Koeler (USF Jardim Leal)",
+      "changes": [
+        "CEP: Orienta='25070-130' vs Nosso='25035-520'"
+      ],
+      "description": "Cuidados de saúde integrados dedicados às famílias do Jardim Leal, prestando orientações e preventivos especializados."
+    },
+    {
+      "name": "USF Jardim Olimpo",
+      "orientaName": "USF Jardim Olimpo",
+      "changes": [
+        "CEP: Orienta='25250-000' vs Nosso='25255-350'"
+      ],
+      "description": "Atuação na atenção básica em Jardim Olimpo com foco em ações de promoção da saúde e preventivos essenciais."
+    },
+    {
+      "name": "USF Mangueirinha",
+      "orientaName": "USF Mangueirinha",
+      "changes": [
+        "CEP: Orienta='25010-090' vs Nosso='25030-365'"
+      ],
+      "description": "Assistência básica no topo do morro da Mangueirinha, facilitando o acesso da população local a preventivos, puericultura e clínica médica."
+    },
+    {
+      "name": "Clinica da Família Maria Helena Monteiro (Centenário Novo)",
+      "orientaName": "USF Vila Maria Helena e Codora",
+      "changes": [
+        "CEP: Orienta='25245-390' vs Nosso='25020-137'"
+      ],
+      "description": "Oferece cuidados preventivos e visitas domiciliares contínuas para os bairros Vila Maria Helena e Codora."
+    },
+    {
+      "name": "USF Nelson Chaves de Araújo",
+      "orientaName": "USF Nelson Chaves de Araújo",
+      "changes": [
+        "CEP: Orienta='25225-000' vs Nosso='25233-240'"
+      ],
+      "description": "Prestação de assistência e acompanhamento familiar integral, focado na prevenção no bairro de Santa Isabel."
+    },
+    {
+      "name": "USF Nova Campina",
+      "orientaName": "USF Nova Campinas",
+      "changes": [
+        "CEP: Orienta='25260-310' vs Nosso='25267-020'"
+      ],
+      "description": "Oferece suporte à saúde primária de forma acolhedora para os moradores de Nova Campinas com equipes integradas."
+    },
+    {
+      "name": "USF Otacílio da Silva (USF Olavo Bilac)",
+      "orientaName": "USF Otacílio da Silva (USF Olavo Bilac)",
+      "changes": [
+        "CEP: Orienta='25015-180' vs Nosso='25036-210'"
+      ],
+      "description": "Atuação constante de Agentes Comunitários de Saúde e equipe clínica nas residências do bairro Olavo Bilac."
+    },
+    {
+      "name": "USF Parada Morabi",
+      "orientaName": "USF Parada Morabi",
+      "changes": [
+        "CEP: Orienta='25265-000' vs Nosso='25265-190'"
+      ],
+      "description": "Presta serviços de atenção primária no bairro Parada Morabi, integrando exames e vacinação à rotina das famílias."
+    },
+    {
+      "name": "USF Parque Comercial",
+      "orientaName": "USF Parque Comercial",
+      "changes": [
+        "CEP: Orienta='25045-000' vs Nosso='25040-004'"
+      ],
+      "description": "Atuação na Estratégia de Saúde da Família com acompanhamento regular e preventivo da população do Parque Comercial no São Bento."
+    },
+    {
+      "name": "USF Parque Eldorado",
+      "orientaName": "USF Parque Eldorado",
+      "changes": [
+        "CEP: Orienta='25240-000' vs Nosso='25070-260'"
+      ],
+      "description": "Unidade essencial para a promoção da saúde e acompanhamento integral das famílias do Parque Eldorado."
+    },
+    {
+      "name": "USF Manoel Barcelos (USF Parque Felicidade)",
+      "orientaName": "USF Manoel Barcelos (USF Parque Felicidade)",
+      "changes": [
+        "CEP: Orienta='25080-120' vs Nosso='25080-010'"
+      ],
+      "description": "Garante o cuidado de saúde preventivo continuado de proximidade para a comunidade do Parque Felicidade."
+    },
+    {
+      "name": "USF Parque Paulista",
+      "orientaName": "USF Parque Paulista",
+      "changes": [
+        "CEP: Orienta='25250-000' vs Nosso='25261-000'"
+      ],
+      "description": "Operando integrada à estrutura da UPH da Equitativa, expande os cuidados primários e preventivos para as famílias da localidade."
+    },
+    {
+      "name": "UPH Pilar",
+      "orientaName": "USF Pilar I e II",
+      "changes": [
+        "CEP: Orienta='25233-000' vs Nosso='25000-000'"
+      ],
+      "description": "Equipes I e II dedicadas à atenção primária e Estratégia de Saúde da Família no tradicional bairro do Pilar."
+    },
+    {
+      "name": "UPH Pilar",
+      "orientaName": "USF Pilar III, IV e V",
+      "changes": [
+        "CEP: Orienta='25233-000' vs Nosso='25000-000'"
+      ],
+      "description": "Expansão da cobertura de saúde da família na região do Pilar, integrando equipes III, IV e V para suporte preventivo amplo."
+    },
+    {
+      "name": "USF Santa Lúcia",
+      "orientaName": "USF Santa Lúcia",
+      "changes": [
+        "CEP: Orienta='25240-000' vs Nosso='25075-090'"
+      ],
+      "description": "Unidade integrada à comunidade escolar no CIEP 330 com forte atuação preventiva no bairro de Santa Lúcia."
+    },
+    {
+      "name": "USF Santa Rosa (USF Parque Leal)",
+      "orientaName": "USF Santa Rosa (USF Parque Leal)",
+      "changes": [
+        "CEP: Orienta='25250-000' vs Nosso='25070-260'"
+      ],
+      "description": "Atendimento e suporte à saúde primária de forma acolhedora para os moradores do Parque Leal na Washington Luís."
+    },
+    {
+      "name": "UBS Enir Angela Biciati Moreira (UBS Santo Antônio - É USF)",
+      "orientaName": "USF Santo Antônio da Serra",
+      "changes": [
+        "CEP: Orienta='25250-000' vs Nosso='25253-550'"
+      ],
+      "description": "Unidade essencial para a promoção da saúde e acompanhamento integral das famílias do bairro de Santo Antônio da Serra."
+    },
+    {
+      "name": "USF São Bento",
+      "orientaName": "USF São Bento",
+      "changes": [
+        "CEP: Orienta='25045-000' vs Nosso='25045-027'"
+      ],
+      "description": "Unidade essencial para a promoção da saúde e acompanhamento integral das famílias do bairro São Bento."
+    },
+    {
+      "name": "Clínica da Família Taquara",
+      "orientaName": "USF Taquara",
+      "changes": [
+        "CEP: Orienta='25250-000' vs Nosso='25270-040'"
+      ],
+      "description": "Assistência à saúde e preventivos em localidade de fácil acesso no bairro rural da Taquara."
+    },
+    {
+      "name": "USF Trevo das Missões",
+      "orientaName": "USF Trevo das Missões",
+      "changes": [
+        "CEP: Orienta='25055-000' vs Nosso='25086-480'"
+      ],
+      "description": "Posto de Saúde da Família estrategicamente localizado para cobrir a região do Trevo das Missões com ações educativas e clínicas preventivas."
+    },
+    {
+      "name": "USF Vila Urussaí",
+      "orientaName": "USF Vila Urussaí",
+      "changes": [
+        "CEP: Orienta='25212-390' vs Nosso='25211-120'"
+      ],
+      "description": "Atenção primária de proximidade e acompanhamento da saúde da família na Vila Urussaí, em Saracuruna."
+    }
+  ]
+}
