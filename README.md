@@ -14,7 +14,7 @@ npm start
 # Ou modo desenvolvimento com recarregamento automático
 npm run dev
 ```
-Acesse no seu navegador: 👉 **`http://localhost:3333`**
+Acesse no seu navegador: 👉 **`http://localhost:3015`**
 
 ---
 
@@ -50,9 +50,10 @@ npm run pm2:stop
 ---
 
 ### 4. Acesso Direto às Interfaces Web:
-- 🌐 **Painel Web Principal:** `http://localhost:3333/`
-- 🔐 **Login Administrativo:** `http://localhost:3333/login`
-- 📑 **Gerenciador Institucional:** `http://localhost:3333/gerenciador`
+- 🌐 **Painel Web Principal:** `http://localhost:3015/`
+- 🔐 **Login Administrativo:** `http://localhost:3015/login`
+- 📑 **Gerenciador Institucional:** `http://localhost:3015/gerenciador`
+
 
 
 ---

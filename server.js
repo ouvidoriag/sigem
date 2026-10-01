@@ -13,7 +13,7 @@ const fs = require('fs');
 const { DatabaseSync } = require('node:sqlite');
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3015;
 const DB_PATH = process.env.DB_PATH || path.join(__dirname, 'dados', 'enderecos_duque_de_caxias_v2.db');
 
 // Inicialização do Banco de Dados SQLite
