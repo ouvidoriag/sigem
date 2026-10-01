@@ -1,0 +1,32 @@
+{
+  "name": "sigem-duque-de-caxias",
+  "version": "2.0.0",
+  "description": "Sistema Integrado de Gestão de Endereços Municipais (SIGEM) — Duque de Caxias / RJ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "pm2:start": "pm2 start ecosystem.config.js",
+    "pm2:stop": "pm2 stop sigem",
+    "pm2:restart": "pm2 restart sigem",
+    "pm2:status": "pm2 status",
+    "pm2:logs": "pm2 logs sigem",
+    "pm2:delete": "pm2 delete sigem"
+  },
+  "keywords": [
+    "sigem",
+    "duque-de-caxias",
+    "gis",
+    "geoprocessamento",
+    "enderecos",
+    "governo"
+  ],
+  "author": "Prefeitura Municipal de Duque de Caxias",
+  "license": "ISC",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2"
+  }
+}
