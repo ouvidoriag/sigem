@@ -30,10 +30,14 @@ try {
 }
 
 // Middlewares Globais de Produção
+app.set('trust proxy', 1); // Permite identificar IP e protocolo reais via Nginx Reverse Proxy
 app.use(compression());
 app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
+
+// Prefixo base configurável (padrão: sigem)
+const BASE_PATH = (process.env.BASE_PATH || 'sigem').replace(/^\/+|\/+$/g, '');
 
 // Log básico de requisições
 app.use((req, res, next) => {
@@ -41,7 +45,8 @@ app.use((req, res, next) => {
   res.on('finish', () => {
     const duration = Date.now() - start;
     if (!req.path.startsWith('/dados') && !req.path.endsWith('.png') && !req.path.endsWith('.ico')) {
-      console.log(`[${new Date().toISOString()}] ${req.method} ${req.path} ${res.statusCode} - ${duration}ms`);
+      const clientIp = req.headers['x-forwarded-for'] || req.socket.remoteAddress;
+      console.log(`[${new Date().toISOString()}] ${req.method} ${req.path} ${res.statusCode} (${clientIp}) - ${duration}ms`);
     }
   });
   next();
@@ -50,9 +55,10 @@ app.use((req, res, next) => {
 // ==========================================
 // 🚀 ROTAS DA API RESTful (SIGEM API V2)
 // ==========================================
+const apiRouter = express.Router();
 
 // 1. Healthcheck do Sistema
-app.get('/api/health', (req, res) => {
+apiRouter.get('/health', (req, res) => {
   let dbStatus = 'disconnected';
   let totalEquipamentos = 0;
   
@@ -82,7 +88,7 @@ app.get('/api/health', (req, res) => {
 });
 
 // 2. Estatísticas e KPIs Gerais
-app.get('/api/stats', (req, res) => {
+apiRouter.get('/stats', (req, res) => {
   if (!db) return res.status(500).json({ error: 'Banco de dados não disponível' });
   try {
     const total = db.prepare('SELECT count(*) as total FROM vw_equipamentos_consolidada').get().total;
@@ -112,7 +118,7 @@ app.get('/api/stats', (req, res) => {
 });
 
 // 3. Lista de Equipamentos (com busca e filtros flexíveis)
-app.get('/api/equipamentos', (req, res) => {
+apiRouter.get('/equipamentos', (req, res) => {
   if (!db) return res.status(500).json({ error: 'Banco de dados não disponível' });
 
   const { categoria, distrito, bairro, hub_id, q, limit, offset } = req.query;
@@ -164,7 +170,7 @@ app.get('/api/equipamentos', (req, res) => {
 });
 
 // 4. Detalhes de um Equipamento específico
-app.get('/api/equipamentos/:id', (req, res) => {
+apiRouter.get('/equipamentos/:id', (req, res) => {
   if (!db) return res.status(500).json({ error: 'Banco de dados não disponível' });
   const id = Number(req.params.id);
 
@@ -208,7 +214,7 @@ app.get('/api/equipamentos/:id', (req, res) => {
 });
 
 // 5. Lista de Distritos
-app.get('/api/distritos', (req, res) => {
+apiRouter.get('/distritos', (req, res) => {
   if (!db) return res.status(500).json({ error: 'Banco de dados não disponível' });
   try {
     const distritos = db.prepare(`
@@ -227,7 +233,7 @@ app.get('/api/distritos', (req, res) => {
 });
 
 // 6. Lista de 90 Bairros
-app.get('/api/bairros', (req, res) => {
+apiRouter.get('/bairros', (req, res) => {
   if (!db) return res.status(500).json({ error: 'Banco de dados não disponível' });
   const { distrito } = req.query;
   let sql = 'SELECT * FROM bairros';
@@ -251,7 +257,7 @@ app.get('/api/bairros', (req, res) => {
 });
 
 // 7. Lista de Categorias
-app.get('/api/categorias', (req, res) => {
+apiRouter.get('/categorias', (req, res) => {
   if (!db) return res.status(500).json({ error: 'Banco de dados não disponível' });
   try {
     const categorias = db.prepare('SELECT * FROM categorias ORDER BY nome ASC').all();
@@ -262,7 +268,7 @@ app.get('/api/categorias', (req, res) => {
 });
 
 // 8. Lista de Hubs Prediais / Complexos Administrativos
-app.get('/api/hubs', (req, res) => {
+apiRouter.get('/hubs', (req, res) => {
   if (!db) return res.status(500).json({ error: 'Banco de dados não disponível' });
   try {
     const hubs = db.prepare(`
@@ -279,29 +285,58 @@ app.get('/api/hubs', (req, res) => {
 });
 
 // ==========================================
+// 🔌 MONTAGEM DOS ROTEADORES DE API
+// ==========================================
+// Permite que a API responda em /api e também com prefixos do Nginx (/sigem/api, /enderecos/api)
+app.use('/api', apiRouter);
+if (BASE_PATH && BASE_PATH !== 'api') {
+  app.use(`/${BASE_PATH}/api`, apiRouter);
+}
+app.use('/sigem/api', apiRouter);
+app.use('/enderecos/api', apiRouter);
+
+// ==========================================
 // 🖥️ ROTAS DE INTERFACE WEB (FRONTEND)
 // ==========================================
+const serveIndex = (req, res) => res.sendFile(path.join(__dirname, 'index.html'));
+const serveLogin = (req, res) => res.sendFile(path.join(__dirname, 'login.html'));
+const serveGerenciador = (req, res) => res.sendFile(path.join(__dirname, 'gerenciador_enderecos.html'));
 
 // Rota Principal (Painel Web Oficial)
-app.get('/', (req, res) => {
-  res.sendFile(path.join(__dirname, 'index.html'));
-});
+const indexPaths = new Set(['/', '/index.html', '/sigem', '/sigem/', '/sigem/index.html', '/enderecos', '/enderecos/', '/enderecos/index.html']);
+if (BASE_PATH) {
+  indexPaths.add(`/${BASE_PATH}`);
+  indexPaths.add(`/${BASE_PATH}/`);
+  indexPaths.add(`/${BASE_PATH}/index.html`);
+}
+indexPaths.forEach(p => app.get(p, serveIndex));
 
 // Rota de Login Administrativo
-app.get('/login', (req, res) => {
-  res.sendFile(path.join(__dirname, 'login.html'));
-});
+const loginPaths = new Set(['/login', '/login.html', '/sigem/login', '/sigem/login.html', '/enderecos/login', '/enderecos/login.html']);
+if (BASE_PATH) {
+  loginPaths.add(`/${BASE_PATH}/login`);
+  loginPaths.add(`/${BASE_PATH}/login.html`);
+}
+loginPaths.forEach(p => app.get(p, serveLogin));
 
 // Rota do Gerenciador de Endereços
-app.get('/gerenciador', (req, res) => {
-  res.sendFile(path.join(__dirname, 'gerenciador_enderecos.html'));
-});
+const gerenciadorPaths = new Set(['/gerenciador', '/gerenciador.html', '/gerenciador_enderecos.html', '/sigem/gerenciador', '/enderecos/gerenciador']);
+if (BASE_PATH) {
+  gerenciadorPaths.add(`/${BASE_PATH}/gerenciador`);
+}
+gerenciadorPaths.forEach(p => app.get(p, serveGerenciador));
 
 // Servir arquivos estáticos (dados, cadernos, imagens, css, js)
-app.use(express.static(__dirname, {
+const staticHandler = express.static(__dirname, {
   maxAge: '1h',
   etag: true
-}));
+});
+app.use(staticHandler);
+if (BASE_PATH) {
+  app.use(`/${BASE_PATH}`, staticHandler);
+}
+app.use('/sigem', staticHandler);
+app.use('/enderecos', staticHandler);
 
 // Tratamento 404
 app.use((req, res) => {
